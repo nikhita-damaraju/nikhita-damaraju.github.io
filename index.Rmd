@@ -6,7 +6,10 @@ output:
     toc_float: true
 ---
 
-<img src = "images/nikhita_damaraju.jpg">
+
+<p style="text-align:center;"><img src = "images/nikhita-damaraju.jpg" height="400"></p>
+
+
 
 * I'm a second year M.S. candidate at the department of Biostatistics concentrating in Statistical Genetics at Columbia University's Mailman School of Public Health. 
 * My research interest is at the intersection of public health and functional genomics using advanced computational methods. In the future, I hope to contribute to the field of precision medicine.
