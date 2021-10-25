@@ -1,0 +1,26 @@
+---
+title: 
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Publications
+(<sup>1</sup> joint first authors)
+
+### 2021
+
+*	Vijayram R<sup>1</sup>, *Damaraju N*<sup>1</sup>, Xavier A<sup>1</sup>, Desiraju BK, Thiruvengadam R, Misra S, et al. Comparison of first trimester dating methods for gestational age estimation and their implication on preterm birth classification in a North Indian cohort. BMC Pregnancy and Childbirth. 2021 Apr 30;21(1):343. 
+
+### 2019
+
+*	B P Kailash<sup>1</sup>, D Karthik<sup>1</sup>, Mousami Shinde<sup>1</sup>, Nikhita Damaraju<sup>1</sup>, et al., ”ChassiDex: A microbial database useful for synthetic biology applications”, submitted on July 16th, 2019, bioRxiv 703033 
+
+### 2018 
+
+*	Nikhita Damaraju, ”International Genetically Engineered Machine (iGEM) Competition Language Project”, submitted on, IEEE India Info. Vol 13 No. 3, Jul-Sep 2018 Newsletter, p67-p68 
+
+
+
+
