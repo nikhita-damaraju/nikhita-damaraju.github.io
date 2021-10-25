@@ -37,18 +37,3 @@ May – August, 2018
 *	Characterized the presence of circRNAs and alternative splicing present in LMP-2A and LMP-2B genes in Epstein-Barr virus validating previous experimental results.
 *	Summarized research in the form a detailed report to be presented at the department research seminar.
 
-# Conferences
-
-*	Runners up and best software tool out of 15 teams, AI Genomics Hackathon, SVAI, San Francisco (2019)
-*	Initiative for Biological Systems Engineering 5th workshop (2019) – best poster and presentation
-*	Gold medal, Foundational Advance track, International Genetically Engineered Machine Competition, Boston (2018)
-
-# Publications
-
-*	Vijayram R, Damaraju N, Xavier A, et al. Comparison of first trimester dating methods for gestational age estimation and their implication on preterm birth classification in a North Indian cohort. medRxiv. Published online January 1, 2020:2019.12.27.19016006. (under review:  Journal of Pediatric and Perinatal Epidemiology)
-*	B P Kailash*, D Karthik*, Mousami Shinde*, Nikhita Damaraju*, et al., ”ChassiDex: A microbial database useful for synthetic biology applications”, submitted on July 16th, 2019, bioRxiv 703033 (* first authors)
-*	Nikhita Damaraju, ”International Genetically Engineered Machine (iGEM) Competition Language Project”, submitted on, IEEE India Info. Vol 13 No. 3, Jul-Sep 2018 Newsletter, p67-p68 
-
-
-
-
