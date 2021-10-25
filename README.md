@@ -1,2 +1,2 @@
 # nikhitadamaraju.github.io
-My personal website
+A personal website
