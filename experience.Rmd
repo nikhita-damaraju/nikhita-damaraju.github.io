@@ -7,7 +7,11 @@ output:
 ---
 
 # Research Projects
-### Dual Degree Thesis, Indian Institute of Technology Madras, India
+## Inflammatix inc.
+
+## Irving Cancer Center 
+
+## Dual Degree Thesis
 Robert Bosch Center for Data Science and AI
 <br> July, 2019 – May, 2020
 <br> Thesis advisor: Dr. Himanshu Sinha	
@@ -18,7 +22,7 @@ Robert Bosch Center for Data Science and AI
 *	Worked in close collaboration with a team of clinicians at the Translational Health Sciences Institute, Delhi as a part of Bill and Melinda Gates foundation grant, Grand Challenges of India grant and BIRAC grant.
 *	Presented research at multiple Data Science and AI academic conferences.
 
-### Stanford University CA
+## Stanford University CA
 Summer Intern, Department of Biochemistry	
 May – August, 2019
 <br>Advisor: Dr. Julia Salzman
@@ -28,7 +32,7 @@ May – August, 2019
 *	Identified several conserved SINE and LINE repeat-based features that facilitate the formation of alternately spliced transcripts.
 *	Analyzed the statistical significance of the presence of conserved genomic signatures across the genome.
 
-### Khorana scholar, Stanford University CA
+### Khorana summer fellowship, Stanford University CA
 May – August, 2018
 <br>Advisor: Dr. Julia Salzman
 
