@@ -1,15 +1,17 @@
 ---
-title: 
+title: About Me
 output: 
   html_document:
     toc: true
     toc_float: true
 ---
 
-<img src = "images/nikhita_damaraju.jpg" style = "width:60%">
+<img src = "images/nikhita_damaraju.jpg">
 
-Hi! 
-I'm Nikhita Damaraju, a first year masters student studying Biostatistics at Columbia University Mailman School of Public Health. My professional interests include health informatics and precision medicine. When I'm not busy with my coursework, I enjoy playing the violin and baking :)
+* I'm a second year M.S. candidate at the department of Biostatistics concentrating in Statistical Genetics at Columbia University's Mailman School of Public Health. 
+* My research interest is at the intersection of public health and functional genomics using advanced computational methods. In the future, I hope to contribute to the field of precision medicine.
+* Prior to this, I completed a dual degree (B.S.-M.S.) in Biological Sciences at the Indian Institute of Technology focused in Computational Biology.
+* When I'm not busy with my coursework, I enjoy playing the violin, photography, running and inventing new desserts!
 
 
 
