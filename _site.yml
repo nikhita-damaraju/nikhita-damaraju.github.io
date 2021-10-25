@@ -5,12 +5,10 @@ navbar:
   right:
   - text: "Professional Experience"
     href: experience.html
-  - text: "Problem 2: Dashboard"
-    href: dashboard_file.html
   - icon: fa-envelope fa-lg
     href: mailto:<nikhita97@gmail.com
   - icon: fa-github fa-lg
-    href: http://github.com/Nikhita97/
+    href: http://github.com/nikhita-damaraju/
   - icon: fa-linkedin fa-lg
     href: https://www.linkedin.com/in/nikhita-damaraju/
 output:
