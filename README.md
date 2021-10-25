@@ -1,2 +1,2 @@
-# nikhita_damaraju.github.io
+# nikhita-damaraju.github.io
 A personal website
