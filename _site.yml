@@ -2,9 +2,19 @@ name: "Yay internet!"
 output_dir: "."
 navbar:
   title: "Nikhita Damaraju"
-  right:
-  - text: "Professional Experience"
+  left:
+  - text: "Projects"
     href: experience.html
+  - text: "Conferences and Publications"
+    href: conf_pubs.html
+  - text: "Teaching"
+    href: teaching.html
+  - text: "Hobbies"
+    href: hobbies.html
+  
+  right:
+  - text: "CV"
+    href: "./Nikhita Damaraju Resume V2 2021.pdf"
   - icon: fa-envelope fa-lg
     href: mailto:<nikhita97@gmail.com
   - icon: fa-github fa-lg
