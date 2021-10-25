@@ -1,7 +1,7 @@
 name: "Yay internet!"
 output_dir: "."
 navbar:
-  title: "Home"
+  title: "Nikhita Damaraju"
   right:
   - text: "Professional Experience"
     href: experience.html
@@ -13,4 +13,4 @@ navbar:
     href: https://www.linkedin.com/in/nikhita-damaraju/
 output:
   html_document:
-    theme: united
+    theme: flatly
