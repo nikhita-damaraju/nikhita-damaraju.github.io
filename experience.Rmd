@@ -5,7 +5,7 @@ output:
     toc: true
     toc_float: true
 ---
-
+# Major experiences
 ### Columbia University Herbert Irving Center for Cancer Research
 Data Science Scholars Program 2020
 <br> November 2020 - present
@@ -65,3 +65,9 @@ May – August, 2017
 
 * Treated fission yeast cells (S. pombe) with different classes of Histone Deacetylase inhibitors like Trichostatin A and Nicotinamide that are commonly used in the treatment of cancers.
 * Observed and reported defects in primitive cell wall (septum) formation 
+<br>
+<br>
+
+# Course projects
+
+* 
