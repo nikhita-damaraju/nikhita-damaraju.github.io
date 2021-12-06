@@ -14,7 +14,7 @@ navbar:
   
   right:
   - text: "CV"
-    href: "./Nikhita_Damaraju_CV_2021"
+    href: "./Nikhita_Damaraju_CV_2021.pdf"
   - icon: fa-envelope fa-lg
     href: mailto:<nikhita97@gmail.com
   - icon: fa-github fa-lg
