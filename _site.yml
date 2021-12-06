@@ -11,8 +11,6 @@ navbar:
     href: publications.html
   - text: "Teaching"
     href: teaching.html
-  - text: "Hobbies"
-    href: hobbies.html
   
   right:
   - text: "CV"
