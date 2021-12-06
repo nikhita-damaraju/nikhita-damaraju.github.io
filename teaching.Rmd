@@ -5,5 +5,23 @@ output:
     toc: true
     toc_float: true
 ---
+# 2021
 
-# Teaching experience
+
+
+# 2020
+### Graduate Teaching Assistant, Quantitative and Population Genetics 
+Instructor: Dr. Himanshu Sinha
+<u> <br> January 2020 - June 2020 </u>
+
+* Conducted online end final examinations in a virtual setting
+* Graded quizzes for 20 students 
+* Solved conceptual doubts for students during office hours
+
+# 2019
+### Graduate Teaching Assistant, Current topics in synthetic biology 
+Instructor: Dr. Karthik Raman
+<u> <br> July 2019 – December 2019 </u> 
+
+Assessed the performance for 15 students in 3 sets of comprehensive research seminars that covered different aspects of Synthetic Biology.
+
