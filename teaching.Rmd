@@ -6,7 +6,21 @@ output:
     toc_float: true
 ---
 # 2021
+### Graduate Teaching Assistant, Probability (P8104)
+Instructor: Dr. Xiaoyu Che
+<u> <br> September 2021 – December 2021 </u>
 
+* Conceptualized questions for weekly assignments 
+* Held office hours to clarify theoretical concepts
+* Grading weekly homework and examinations for 170 students
+
+### Graduate Teaching Assistant, Data Science (P8105)
+Instructor: Dr. Jeff Goldsmith
+<u> <br> September 2021 – December 2021 </u>
+
+* Graded weekly homework assignments
+* Mentored student groups for the final project
+* Held weekly office hour sessions involving debugging and explaining key tidyverse/dplyr functions to 180 students
 
 
 # 2020
