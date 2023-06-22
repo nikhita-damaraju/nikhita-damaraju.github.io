@@ -9,7 +9,7 @@ output:
 
 <p style="text-align:center;"><img src = "images/nikhita-damaraju.jpg" height="400"></p>
 
-
+Hello!
 
 * I'm a second year M.S. candidate at the department of Biostatistics concentrating in Statistical Genetics at <a href = "https://www.publichealth.columbia.edu"> Columbia University's Mailman School of Public Health. </a> Here, I've been affiliated with organizations like the Irving Center for Cancer Research through the Data Science Institute scholars program.
 
