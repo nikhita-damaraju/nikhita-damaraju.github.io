@@ -9,7 +9,7 @@ output:
 
 <p style="text-align:center;"><img src = "images/nikhita-damaraju.jpg" height="400"></p>
 
-* I am a first year PhD Student at the University of Washington’s <a href = “https://iphg.biostat.washington.edu/”> Institute for Public Health Genetics </a> jointly advised by <a href = “https://dlmp.uw.edu/faculty/miller”> Dr. Danny Miller </a> and <a href = “https://dlmp.uw.edu/faculty/shirts”> Dr. Brian Shirts </a>. My research is focused on optimizing long-read sequencing data for clinical care and population genetics.
+* I am a first year PhD Student at the University of Washington’s <a href = "https://iphg.biostat.washington.edu/"> Institute for Public Health Genetics </a> jointly advised by <a href = "https://dlmp.uw.edu/faculty/miller"> Dr. Danny Miller </a> and <a href = "https://dlmp.uw.edu/faculty/shirts"> Dr. Brian Shirts </a>. My research is focused on optimizing long-read sequencing data for clinical care and population genetics.
 
 * My research interests include utilizing tools from Genomics, Public Health and Statistics in improving the field of translational medicine.
 
