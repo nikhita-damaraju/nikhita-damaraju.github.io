@@ -1,7 +1,7 @@
 name: "Yay internet!"
 output_dir: "."
 navbar:
-  title: "Nikhita Damaraju"
+  title: "Home"
   left:
   - text: "Projects"
     href: experience.html
@@ -16,7 +16,9 @@ navbar:
     
   right:
   - text: "CV"
-    #href: "./Nikhita_Damaraju_CV_2021.pdf"
+    href: "./Nikhita_Damaraju_CV_2021.pdf"
+  - icon: ai-google-scholar ai-lg
+    href: https://scholar.google.com/citations?user=IYzv-hgAAAAJ&hl=en
   - icon: fa-github fa-lg
     href: http://github.com/nikhita-damaraju/
   - icon: fa-linkedin fa-lg
@@ -24,4 +26,4 @@ navbar:
 output:
   html_document:
     theme: flatly
-    #theme: cayman
+    css: styles.css
