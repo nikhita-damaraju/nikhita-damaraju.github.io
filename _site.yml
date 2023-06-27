@@ -5,16 +5,18 @@ navbar:
   left:
   - text: "Projects"
     href: experience.html
-  - text: "Conferences"
-    href: conferences.html
+  - text: "Talks"
+    href: talks.html
   - text: "Publications"
     href: publications.html
   - text: "Teaching"
     href: teaching.html
-  
+  - text: "Blog"
+    href: blog.html
+    
   right:
   - text: "CV"
-    href: "./Nikhita_Damaraju_CV_2021.pdf"
+    #href: "./Nikhita_Damaraju_CV_2021.pdf"
   - icon: fa-github fa-lg
     href: http://github.com/nikhita-damaraju/
   - icon: fa-linkedin fa-lg
