@@ -25,5 +25,5 @@ navbar:
     href: https://www.linkedin.com/in/nikhita-damaraju/
 output:
   html_document:
-    theme: flatly
+    theme: journal
     css: styles.css
