@@ -1,11 +1,12 @@
 ---
-title: "nikhita_website_quarto"
+title: "Nikhita Damaraju"
+image: images/nikhita-damaraju.jpg
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 20em
+
 ---
-
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+        
+#content
+---
