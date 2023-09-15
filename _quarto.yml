@@ -5,7 +5,7 @@ website:
   title: "nikhita_website_quarto"
   navbar:
     left:
-      - href: index.qmd
+      - href: index.html
         text: Home
       - about.qmd
 
