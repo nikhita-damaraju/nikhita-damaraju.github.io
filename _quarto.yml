@@ -29,7 +29,7 @@ website:
       - text: "{{< ai google-scholar >}}"
         href: https://scholar.google.com/citations?user=IYzv-hgAAAAJ&hl=en
       - text: CV
-        href: ./Nikhita_Damaraju_CV_2021.pdf
+        href: ./Nikhita_Damaraju_CV_2023.pdf
       
 
 format:
