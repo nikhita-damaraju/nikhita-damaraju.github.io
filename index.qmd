@@ -1,12 +1,43 @@
 ---
 title: "Nikhita Damaraju"
+
 image: images/nikhita-damaraju.jpg
+
 about: 
   template: trestles
-  image-shape: round
-  image-width: 20em
+  image-width: 15em
+---
 
----
-        
-#content
----
+::: {#hero-heading}
+I am a second year PhD Student at the University of Washington's [Institute for Public Health Genetics](https://iphg.biostat.washington.edu/) jointly advised by [Dr. Danny Miller](https://dlmp.uw.edu/faculty/miller) and [Dr. Brian Shirts](https://dlmp.uw.edu/faculty/shirts). My research is focused on optimizing long-read sequencing data for clinical care and population genetics.
+
+## Education
+
+[Columbia University Mailman School of Public Health](https://www.publichealth.columbia.edu) \| New York, NY \| M.S in Biostatistics-Statistical Genetics \| 2020 - 2022
+
+[Indian Institute of Technology Madras](www.iitm.ac.in) \| B.S-M.S in Biological Sciences-Computational Biology \| 2015-2020
+
+## Experience
+
+[Icahn School of Medicine at Mount Sinai](https://icahn.mssm.edu) \| Research Assistant \| February 2022 - September 2022
+
+[Inflammatix inc.](https://inflammatix.com) \| Computational Biology intern \| August 2021 - September 2021
+
+[Herbert Irving Comprehensive Cancer Center](https://www.cancer.columbia.edu) \| Research Assistant \| October 2020 - April 2022
+
+[Stanford University School of Medicine](https://med.stanford.edu) \| Summer intern \| May 2019 - August 2019
+
+[Stanford University School of Medicine](https://med.stanford.edu) \| Summer intern \| May 2018 - August 2018
+:::
+
+::: {#new-section}
+### 
+
+When I'm not busy with my research, I enjoy hiking, kayaking, archery and playing the violin!
+:::
+
+## News
+
+-   Selected to present a lightning talk at 2023 Stanford Genetics Conference on Structural Variants and DNA Repeats \| September 2023
+
+-   Received the UW Department of Laboratory Medicine & Pathology's Building Bridges Award \| June 2023

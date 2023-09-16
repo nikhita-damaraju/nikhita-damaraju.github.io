@@ -3,12 +3,22 @@ project:
   output-dir: docs
 
 website:
-  title: "nikhita_website_quarto"
+  title: ""
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: projects.qmd
+        text: Projects
+      - href: talks.qmd
+        text: Talks
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: blog.qmd
+        text: Blog
+    
     right: 
       - text: "{{< iconify fa6-brands linkedin >}}"
         href: https://www.linkedin.com/in/nikhita-damaraju/
