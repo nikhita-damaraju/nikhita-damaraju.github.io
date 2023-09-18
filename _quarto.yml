@@ -5,6 +5,9 @@ project:
 website:
   title: ""
   navbar:
+    search: false
+    pinned: true
+    fontsize: 1.8em
     left:
       - href: index.qmd
         text: Home
