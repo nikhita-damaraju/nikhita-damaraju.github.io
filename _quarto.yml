@@ -10,17 +10,19 @@ website:
     fontsize: 1.8em
     left:
       - href: index.qmd
-        text: Home
-      - href: projects.qmd
-        text: Projects
-      - href: talks.qmd
-        text: Talks
-      - href: publications.qmd
-        text: Publications
-      - href: teaching.qmd
-        text: Teaching
-      - href: blog.qmd
-        text: Blog
+        text: About
+      - href: ./Nikhita_Damaraju_CV_2023.pdf
+        text: CV
+#      - href: projects.qmd
+#        text: Projects
+#      - href: talks.qmd
+#        text: Talks
+#      - href: publications.qmd
+#        text: Publications
+#      - href: teaching.qmd
+#        text: Teaching
+#      - href: blog.qmd
+#        text: Blog
     
     right: 
       - text: "{{< iconify fa6-brands linkedin >}}"
@@ -31,8 +33,7 @@ website:
         href: http://github.com/nikhita-damaraju/
       - text: "{{< ai google-scholar >}}"
         href: https://scholar.google.com/citations?user=IYzv-hgAAAAJ&hl=en
-      - text: CV
-        href: ./Nikhita_Damaraju_CV_2023.pdf
+
       
 
 format:
