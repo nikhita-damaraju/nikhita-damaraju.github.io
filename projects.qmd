@@ -1,12 +1,6 @@
 ---
 title: ""
+
 about:
-  id: hero-heading
-  template: jolla
+  template: solana
 ---
-
-::: {#hero-heading}
-<div>
-
-</div>
-:::
