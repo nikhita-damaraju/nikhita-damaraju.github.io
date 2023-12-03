@@ -1,5 +1,47 @@
 [
   {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "",
+    "section": "",
+    "text": "In the last 5+ years, I've worked on a diverse set of projects spanning the intersection of fields like Statistics, Genetics, Cancer Biology, Machine Learning and Public Health."
+  },
+  {
+    "objectID": "projects.html#cohort-event-monitoring-of-patients-treated-with-a-tenofovirlamivudinedolutegravir-tld-regimen-in-mozambique",
+    "href": "projects.html#cohort-event-monitoring-of-patients-treated-with-a-tenofovirlamivudinedolutegravir-tld-regimen-in-mozambique",
+    "title": "",
+    "section": "Cohort Event Monitoring of Patients Treated with a Tenofovir/Lamivudine/Dolutegravir (TLD) Regimen in Mozambique",
+    "text": "Cohort Event Monitoring of Patients Treated with a Tenofovir/Lamivudine/Dolutegravir (TLD) Regimen in Mozambique\nUW School of Pharmacy | Biostatistician | June 2023 - September 2023\nSkills: Statistical analysis, Report preparation, Pharmacovigilance\n\nCharacterized the types, rates, and risk factors for adverse events in the TLD Regimen using statistical modeling techniques."
+  },
+  {
+    "objectID": "projects.html#statistical-insights-to-improve-the-prediction-of-polygenic-risk-score-modelling",
+    "href": "projects.html#statistical-insights-to-improve-the-prediction-of-polygenic-risk-score-modelling",
+    "title": "",
+    "section": "Statistical insights to improve the prediction of polygenic risk score modelling",
+    "text": "Statistical insights to improve the prediction of polygenic risk score modelling\nIcahn School of Medicine at Mount Sinai | Research Assistant | February 2022 - September 2022\nSkills: Statistical modeling, GWAS\n\nImplemented a novel shrinkage method on UK Biobank data and summarized key algorithmic considerations and biological insights in the form of a manuscript (in preparation)."
+  },
+  {
+    "objectID": "projects.html#bioinformatics-pipeline-to-quantify-aneuploidy-in-whole-exome-sequencing-data",
+    "href": "projects.html#bioinformatics-pipeline-to-quantify-aneuploidy-in-whole-exome-sequencing-data",
+    "title": "",
+    "section": "Bioinformatics pipeline to quantify aneuploidy in whole exome sequencing data",
+    "text": "Bioinformatics pipeline to quantify aneuploidy in whole exome sequencing data\nHerbert Irving Comprehensive Cancer Center | Research Assistant | October 2020 - April 2022\nSkills: Bioinformatics, Cancer Biology, AWS-Cloud9\n\nQuantified mutations (point and indels) stratified by chromosomal regions and genes across healthy and tumor samples.\nWorked on a collaborative study with Genentech Inc. to understand correlations between immunotherapy status and copy number variations in multiple tumor types."
+  },
+  {
+    "objectID": "projects.html#deriving-a-gene-signature-for-systemic-lupus-erythematosus-with-high-diagnostic-accuracy-using-a-multi-cohort-analysis-framework",
+    "href": "projects.html#deriving-a-gene-signature-for-systemic-lupus-erythematosus-with-high-diagnostic-accuracy-using-a-multi-cohort-analysis-framework",
+    "title": "",
+    "section": "Deriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework",
+    "text": "Deriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework\nInflammatix inc. | Computational Biology intern | August 2021 - September 2021\nSkills: Statistical modeling, Microarray analysis, Multi-cohort analysis\n\nDerived a gene expression signature to distinguish between healthy controls and Systemic Lupus Erythematosus (SLE), validated in an independent set with high accuracy."
+  },
+  {
+    "objectID": "helpful_links.html",
+    "href": "helpful_links.html",
+    "title": "Helpful links",
+    "section": "",
+    "text": "Adding a bunch of links here with useful software, concepts and tutorials\n\n  \n\n\n\nBioinformatics\nVariant calling and phasing software"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Nikhita Damaraju",
@@ -26,5 +68,12 @@
     "title": "Nikhita Damaraju",
     "section": "News",
     "text": "News\n\nPresented a short talk at 2023 Stanford Genetics Conference on Structural Variants and DNA Repeats | September 2023\nReceived the UW Department of Laboratory Medicine & Pathology’s Building Bridges Award | June 2023"
+  },
+  {
+    "objectID": "variant_calling.html",
+    "href": "variant_calling.html",
+    "title": "Helpful links",
+    "section": "",
+    "text": "Adding a bunch of links here with useful software, explaining concepts, etc\n\n  \n\n\n\nStatistical genetics\nVariant calling\nPhasing software"
   }
 ]
