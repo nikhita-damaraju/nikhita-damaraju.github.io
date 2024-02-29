@@ -11,7 +11,7 @@ website:
     left:
       - href: index.qmd
         text: About
-      - href: ./Nikhita_Damaraju_CV_2024.pdf
+      - href: ./Nikhita_Damaraju_CV_2023.pdf
         text: CV
 #      - href: projects.qmd
 #        text: Projects
