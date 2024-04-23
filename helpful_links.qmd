@@ -13,6 +13,6 @@ Adding a bunch of links here with useful software, concepts and tutorials
 </div>
 :::
 
-### Bioinformatics 
+### Bioinformatics
 
 [Variant calling and phasing software](https://github.com/nikhita-damaraju/bioinformatics/blob/main/phasing_resources.md)

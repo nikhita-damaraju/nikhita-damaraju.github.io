@@ -1,5 +1,61 @@
 [
   {
+    "objectID": "media/Language Project/index.html",
+    "href": "media/Language Project/index.html",
+    "title": "The Language Project",
+    "section": "",
+    "text": "It has been observed that the public does not have a clear purview of the research and findings in biotechnology, so much so that a basic know-how of genetics is also not common and the brunt of the decisions in public domain falls into the hands of lobbyists for example, GMOs.\nAs a part of the iGEM 2018 competition’s human practices and community outreach component, our team worked on making and spreading content about the basics of biotech in a commoner’s language. The content is now available in 26 Indian and international languages like Kannada, Tamil, Telugu, Marathi, Hindi, Bengali, Malayalam, Gujarati, Assamese, French, Mandarin, Malay, Spanish, Bosnian, Arabic, Catalan and Chinese and English on the YouTube channel for viewing.\nThis initiative continues to be an important outreach component of team IIT Madras’ iGEM participation till date. Our work was covered by Indian newspapers like Times of India and New Indian Express along with newsltters like IEEE India Council (Sep 2018 issue) and India Bioscience.\n\n\n\nTeam members of iGEM IIT Madras 2018 along with instructors and mentors."
+  },
+  {
+    "objectID": "media/index.html",
+    "href": "media/index.html",
+    "title": "In media",
+    "section": "",
+    "text": "Garbhini-GA2 formula\n\n\n\n\n\n\n\nAI for healthcare\n\n\n\n\nDeveloping Garbhini-GA2, a first-of-its-kind India-specific AI-based model that predicts gestational age using 2nd and 3rd trimester ultrasound data.\n\n\n\n\n\n\nFeb 26, 2024\n\n\n\n\n\n\n  \n\n\n\n\nThe Language Project\n\n\n\n\n\n\n\nScience Communication\n\n\n\n\nA science communication initiative that aims to break the language barriers in understanding the fundamentals of genetics and synthetic biology to guide decision making.\n\n\n\n\n\n\nDec 1, 2018\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "variant_calling.html",
+    "href": "variant_calling.html",
+    "title": "Helpful links",
+    "section": "",
+    "text": "Adding a bunch of links here with useful software, explaining concepts, etc\n\n  \n\n\n\nStatistical genetics\nVariant calling\nPhasing software"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Nikhita Damaraju",
+    "section": "",
+    "text": "I am a second year PhD Student at the University of Washington’s Institute for Public Health Genetics jointly advised by Dr. Danny Miller and Dr. Brian Shirts. My research is focused on optimizing long-read sequencing data for clinical care and population genetics.\nWhen I’m not busy with my research, I enjoy hiking, kayaking, archery and playing the violin!"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Nikhita Damaraju",
+    "section": "Education",
+    "text": "Education\n\nUniversity of Washington School of Public Health | PhD in Public Health Genetics | 2022 - present\n\n\n\nColumbia University Mailman School of Public Health | M.S in Biostatistics-Statistical Genetics | 2020 - 2022\nIndian Institute of Technology Madras | B.S-M.S in Biological Sciences-Computational Biology | 2015-2020"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Nikhita Damaraju",
+    "section": "Experience",
+    "text": "Experience\n\nUW School of Medicine | Research Assistant | January 2023 - present\nUW School of Pharmacy | Biostatistician | March 2023 - September 2023\nIcahn School of Medicine at Mount Sinai | Research Assistant | February 2022 - September 2022\nInflammatix inc. | Computational Biology intern | August 2021 - September 2021\nHerbert Irving Comprehensive Cancer Center | Research Assistant | October 2020 - April 2022\nStanford University School of Medicine | Summer intern | May 2019 - August 2019\nStanford University School of Medicine | Summer intern | May 2018 - August 2018\nTata Institute of Fundamental Research | Summer intern | May 2017 - August 2017"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Nikhita Damaraju",
+    "section": "News",
+    "text": "News\n\nThe first preprint as a part of the 1000 Genomes ONT Sequencing Consortium is out! We discuss our work in building a detailed catalog of human variation using 100 samples.\nRead more: Preprint | March 2024\nThe second paper from my dual degree (B.S. - M.S.) thesis project from Indian Institute of Technology, Madras is out in Lancet Regional Health - Southeast Asia! Read more: Published study and media coverage | February 2024\nOur mini-review on the clinical potential of long-read sequencing is out in the Journal of Applied Lab Medicine! Read more here | January 2024\nPresented a talk at 2023 Genome Informatics meeting, Cold Spring Harbor, NY | December 2023\nI spent a week as a TA for the Computational Genomics 2023 course at Cold Spring Harbor, NY | November 2023\nPresented a short talk at 2023 Stanford Genetics Conference on Structural Variants and DNA Repeats | September 2023"
+  },
+  {
+    "objectID": "helpful_links.html",
+    "href": "helpful_links.html",
+    "title": "Helpful links",
+    "section": "",
+    "text": "Adding a bunch of links here with useful software, concepts and tutorials\n\n  \n\n\n\nBioinformatics\nVariant calling and phasing software"
+  },
+  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "",
@@ -35,45 +91,10 @@
     "text": "Deriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework\nInflammatix inc. | Computational Biology intern | August 2021 - September 2021\nSkills: Statistical modeling, Microarray analysis, Multi-cohort analysis\n\nDerived a gene expression signature to distinguish between healthy controls and Systemic Lupus Erythematosus (SLE), validated in an independent set with high accuracy."
   },
   {
-    "objectID": "helpful_links.html",
-    "href": "helpful_links.html",
-    "title": "Helpful links",
+    "objectID": "media/Garbhini - GA2/index.html",
+    "href": "media/Garbhini - GA2/index.html",
+    "title": "Garbhini-GA2 formula",
     "section": "",
-    "text": "Adding a bunch of links here with useful software, concepts and tutorials\n\n  \n\n\n\nBioinformatics\nVariant calling and phasing software"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Nikhita Damaraju",
-    "section": "",
-    "text": "I am a second year PhD Student at the University of Washington’s Institute for Public Health Genetics jointly advised by Dr. Danny Miller and Dr. Brian Shirts. My research is focused on optimizing long-read sequencing data for clinical care and population genetics.\nWhen I’m not busy with my research, I enjoy hiking, kayaking, archery and playing the violin!"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Nikhita Damaraju",
-    "section": "Education",
-    "text": "Education\n\nUniversity of Washington School of Public Health | PhD in Public Health Genetics | 2022 - present\n\n\n\nColumbia University Mailman School of Public Health | M.S in Biostatistics-Statistical Genetics | 2020 - 2022\nIndian Institute of Technology Madras | B.S-M.S in Biological Sciences-Computational Biology | 2015-2020"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Nikhita Damaraju",
-    "section": "Experience",
-    "text": "Experience\n\nUW School of Medicine | Research Assistant | January 2023 - present\nUW School of Pharmacy | Biostatistician | March 2023 - September 2023\nIcahn School of Medicine at Mount Sinai | Research Assistant | February 2022 - September 2022\nInflammatix inc. | Computational Biology intern | August 2021 - September 2021\nHerbert Irving Comprehensive Cancer Center | Research Assistant | October 2020 - April 2022\nStanford University School of Medicine | Summer intern | May 2019 - August 2019\nStanford University School of Medicine | Summer intern | May 2018 - August 2018\nTata Institute of Fundamental Research | Summer intern | May 2017 - August 2017"
-  },
-  {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "Nikhita Damaraju",
-    "section": "News",
-    "text": "News\ncheck\n\nThe second paper from my dual degree (B.S. - M.S.) thesis project from Indian Institute of Technology, Madras is out in Lancet Regional Health - Southeast Asia! Read more here | February 2024\nOur mini-review on the clinical potential of long-read sequencing is out in the Journal of Applied Lab Medicine! Read more here | January 2024\nPresented a talk at 2023 Genome Informatics meeting, Cold Spring Harbor, NY | December 2023\nI spent a week as a TA for the Computational Genomics 2023 course at Cold Spring Harbor, NY | November 2023\nPresented a short talk at 2023 Stanford Genetics Conference on Structural Variants and DNA Repeats | September 2023"
-  },
-  {
-    "objectID": "variant_calling.html",
-    "href": "variant_calling.html",
-    "title": "Helpful links",
-    "section": "",
-    "text": "Adding a bunch of links here with useful software, explaining concepts, etc\n\n  \n\n\n\nStatistical genetics\nVariant calling\nPhasing software"
+    "text": "Many women in lower and middle income countries (LMICs) seek antenatal care for the first time after their first trimester. Developing population-specific dating models has been shown to have better outcomes specifically among those with a higher risk of preterm birth. Read our published research study in The Lancet Regional Health Southeast Asia.\nOur work was featured in over 100 regional and national media outlets including The Economic Times, Times of India, The Hindu, The New Indian Express, Business Today, The Deccan Herald and Hindustan Times.\nI’m grateful to Dr. Himanshu Sinha for his mentorship and the opportunity to work on this collaborative project during my time as a dual degree student at Indian Institute of Technology, Madras alongside many wonderful people! I’d also like to thank members of the Translational Health Sciences Institute Fairdabad for their support and guidance throughout each step."
   }
 ]

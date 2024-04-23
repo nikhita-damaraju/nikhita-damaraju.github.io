@@ -25,6 +25,8 @@ website:
 #        text: Blog
       - href: helpful_links.qmd
         text: Helpful links
+      - href: media
+        text: Media
     
     right: 
       - text: "{{< iconify fa6-brands linkedin >}}"

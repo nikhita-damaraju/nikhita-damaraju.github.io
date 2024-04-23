@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title></title>
+<title>In media</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,23 +23,26 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-<script src="site_libs/quarto-contrib/iconify-1.0.7/iconify-icon.min.js"></script>
-<link href="site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
-<link href="site_libs/quarto-contrib/academicons-1.9.2/size.css" rel="stylesheet">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-contrib/iconify-1.0.7/iconify-icon.min.js"></script>
+<link href="../site_libs/quarto-contrib/academicons-1.9.2/all.css" rel="stylesheet">
+<link href="../site_libs/quarto-contrib/academicons-1.9.2/size.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -60,9 +63,40 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
 
-<link rel="stylesheet" href="styles.css">
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed">
@@ -78,19 +112,19 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
+    <a class="nav-link" href="../index.html" rel="" target="">
  <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="././Nikhita_Damaraju_Academic_CV_2024_website.pdf" rel="" target="">
+    <a class="nav-link" href=".././Nikhita_Damaraju_Academic_CV_2024_website.pdf" rel="" target="">
  <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./helpful_links.html" rel="" target="">
+    <a class="nav-link" href="../helpful_links.html" rel="" target="">
  <span class="menu-text">Helpful links</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./media" rel="" target="">
+    <a class="nav-link" href="../media" rel="" target="">
  <span class="menu-text">Media</span></a>
   </li>  
 </ul>
@@ -122,59 +156,104 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="AI for healthcare">AI for healthcare <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Science Communication">Science Communication <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
-<div class="quarto-about-solana column-page">
-  <div class="about-entity">
-    <div class="entity-contents">
-      <div class="about-contents"><main class="content column-page" id="quarto-document-content">
-<p>In the last 5+ years, I've worked on a diverse set of projects spanning the intersection of fields like Statistics, Genetics, Cancer Biology, Machine Learning and Public Health.</p>
-<p><img src="images/Icons_projects.png" class="img-fluid"></p>
-<div>
-<section id="cohort-event-monitoring-of-patients-treated-with-a-tenofovirlamivudinedolutegravir-tld-regimen-in-mozambique" class="level2">
-<h2 data-anchor-id="cohort-event-monitoring-of-patients-treated-with-a-tenofovirlamivudinedolutegravir-tld-regimen-in-mozambique"><strong>Cohort Event Monitoring of Patients Treated with a Tenofovir/Lamivudine/Dolutegravir (TLD) Regimen in Mozambique</strong></h2>
-<p><a href="https://sop.washington.edu">UW School of Pharmacy</a> | Biostatistician | June 2023 - September 2023</p>
-<p>Skills: Statistical analysis, Report preparation, Pharmacovigilance</p>
-<ul>
-<li>Characterized the types, rates, and risk factors for adverse events in the TLD Regimen using statistical modeling techniques.</li>
-</ul>
-<hr>
-</section>
-<section id="statistical-insights-to-improve-the-prediction-of-polygenic-risk-score-modelling" class="level2">
-<h2 data-anchor-id="statistical-insights-to-improve-the-prediction-of-polygenic-risk-score-modelling">Statistical insights to improve the prediction of polygenic risk score modelling</h2>
-<p><a href="https://icahn.mssm.edu">Icahn School of Medicine at Mount Sinai</a> | Research Assistant | February 2022 - September 2022</p>
-<p>Skills: Statistical modeling, GWAS</p>
-<ul>
-<li>Implemented a novel shrinkage method on UK Biobank data and summarized key algorithmic considerations and biological insights in the form of a manuscript (in preparation).</li>
-</ul>
-<hr>
-</section>
-<section id="bioinformatics-pipeline-to-quantify-aneuploidy-in-whole-exome-sequencing-data" class="level2">
-<h2 data-anchor-id="bioinformatics-pipeline-to-quantify-aneuploidy-in-whole-exome-sequencing-data">Bioinformatics pipeline to quantify aneuploidy in whole exome sequencing data</h2>
-<p><a href="https://www.cancer.columbia.edu">Herbert Irving Comprehensive Cancer Center</a> | Research Assistant | October 2020 - April 2022</p>
-<p>Skills: Bioinformatics, Cancer Biology, AWS-Cloud9</p>
-<ul>
-<li><p>Quantified mutations (point and indels) stratified by chromosomal regions and genes across healthy and tumor samples.</p></li>
-<li><p>Worked on a collaborative study with Genentech Inc.&nbsp;to understand correlations between immunotherapy status and copy number variations in multiple tumor types.</p></li>
-</ul>
-<hr>
-</section>
-<section id="deriving-a-gene-signature-for-systemic-lupus-erythematosus-with-high-diagnostic-accuracy-using-a-multi-cohort-analysis-framework" class="level2">
-<h2 data-anchor-id="deriving-a-gene-signature-for-systemic-lupus-erythematosus-with-high-diagnostic-accuracy-using-a-multi-cohort-analysis-framework">Deriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework</h2>
-<p><a href="https://inflammatix.com">Inflammatix inc.</a> | Computational Biology intern | August 2021 - September 2021</p>
-<p>Skills: Statistical modeling, Microarray analysis, Multi-cohort analysis</p>
-<ul>
-<li>Derived a gene expression signature to distinguish between healthy controls and Systemic Lupus Erythematosus (SLE), validated in an independent set with high accuracy.</li>
-</ul>
-</section>
+<main class="content column-page-left" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">In media</h1>
 </div>
 
 
-</main></div>
-    </div>
+
+<div class="quarto-title-meta">
+
+    
+  
+    
   </div>
+  
+
+</header>
+
+
+
+
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="AI for healthcare" data-listing-date-sort="1708934400000" data-listing-file-modified-sort="1713899530962" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="../media/Garbhini - GA2/index.html"> <img src="../media/Garbhini - GA2/hand-drawn-flat-design-sonography-illustration.jpg" class="thumbnail-image"> </a></p>
 </div>
- <!-- /main -->
+<div class="body">
+<a href="../media/Garbhini - GA2/index.html">
+<h3 class="no-anchor listing-title">
+Garbhini-GA2 formula
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('AI for healthcare'); return false;">
+AI for healthcare
+</div>
+</div>
+<a href="../media/Garbhini - GA2/index.html">
+<div class="listing-description">
+<p>Developing Garbhini-GA2, a first-of-its-kind India-specific AI-based model that predicts gestational age using 2nd and 3rd trimester ultrasound data.</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../media/Garbhini - GA2/index.html">
+<div class="listing-date">
+Feb 26, 2024
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="Science Communication" data-listing-date-sort="1543651200000" data-listing-file-modified-sort="1713899530965" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
+<div class="thumbnail">
+<p><a href="../media/Language Project/index.html"> <img src="../media/Language Project/language-project.png" class="thumbnail-image"> </a></p>
+</div>
+<div class="body">
+<a href="../media/Language Project/index.html">
+<h3 class="no-anchor listing-title">
+The Language Project
+</h3>
+<div class="listing-subtitle">
+
+</div>
+</a>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Science Communication'); return false;">
+Science Communication
+</div>
+</div>
+<a href="../media/Language Project/index.html">
+<div class="listing-description">
+<p>A science communication initiative that aims to break the language barriers in understanding the fundamentals of genetics and synthetic biology to guide decision making.</p>
+</div>
+</a>
+</div>
+<div class="metadata">
+<a href="../media/Language Project/index.html">
+<div class="listing-date">
+Dec 1, 2018
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -195,6 +274,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const isCodeAnnotation = (el) => {
     for (const clz of el.classList) {
       if (clz.startsWith('code-annotation-')) {                     

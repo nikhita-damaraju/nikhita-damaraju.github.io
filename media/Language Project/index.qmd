@@ -1,0 +1,29 @@
+---
+title: "The Language Project"
+description: |
+    A science communication initiative that aims to break the language barriers in understanding the fundamentals of genetics and synthetic biology to guide decision making. 
+date: 2018-12-01
+categories: ["Science Communication"]
+image: language-project.png
+format:
+  html:
+    df-print: paged
+    toc: true
+google-scholar: false
+---
+
+It has been observed that the public does not have a clear purview of the research and findings in biotechnology, so much so that a basic know-how of genetics is also not common and the brunt of the decisions in public domain falls into the hands of lobbyists for example, GMOs.
+
+As a part of the iGEM 2018 competition's human practices and community outreach component, our team worked on making and spreading content about the basics of biotech in a commoner's language. The content is now available in 26 Indian and international languages like Kannada, Tamil, Telugu, Marathi, Hindi, Bengali, Malayalam, Gujarati, Assamese, French, Mandarin, Malay, Spanish, Bosnian, Arabic, Catalan and Chinese and English on the [YouTube channel](http://bit.ly/lang_proj) for viewing.
+
+This initiative continues to be an important outreach component of team IIT Madras' iGEM participation till date. Our work was covered by Indian newspapers like [Times of India](https://timesofindia.indiatimes.com/city/chennai/theyve-got-a-one-shot-solution-for-issues-know-what/articleshow/68204698.cms) and [New Indian Express](https://www.newindianexpress.com/cities/chennai/2019/apr/17/iit-m-students-will-help-you-learn-biology-in-33-languages-1965229.html) along with newsltters like [IEEE India Council](https://newsletter.ieeeindiacouncil.org/wp-content/uploads/sites/150/Jul-to-Sep-2018.pdf) (Sep 2018 issue) and [India Bioscience](https://indiabioscience.org/columns/indian-scenario/the-journey-of-the-language-project).
+
+![Team members of iGEM IIT Madras 2018 along with instructors and mentors.](iGEM-IIT-Madras.jpeg){fig-align="left" width="448"}
+
+				
+
+			
+
+		
+
+	
