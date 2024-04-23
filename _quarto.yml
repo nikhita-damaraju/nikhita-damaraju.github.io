@@ -7,7 +7,7 @@ website:
   navbar:
     search: false
     pinned: true
-    fontsize: 1.8em
+    fontsize: 2.5em
     left:
       - href: index.qmd
         text: About
@@ -42,9 +42,7 @@ website:
 
 format:
   html:
-    theme: 
-      light: cosmo
-      dark: [cosmo, theme-dark.scss]
+    theme: [sandstone, _variables.scss]
     css: styles.css
     toc: true
     page-layout: full

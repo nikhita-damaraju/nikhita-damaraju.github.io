@@ -6,6 +6,21 @@ image: images/nikhita-damaraju.jpg
 about: 
   template: trestles
   image-width: 15em
+  links:
+    - text: "{{< iconify fa6-brands linkedin >}} LinkedIn"
+      url: "https://www.linkedin.com/in/nikhita-damaraju/"
+    - text: GitHub
+      icon: github
+      url: "http://github.com/nikhita-damaraju/"
+    - text: Twitter/X
+      icon: twitter
+      url: "https://twitter.com/NikhitaDamaraju"
+    - text: "{{< fa envelope >}} Email"
+      url: "mailto:nikhita@uw.edu"
+    - text: "{{< ai orcid >}} ORCID"
+      url: "https://orcid.org/0000-0001-5054-037X"
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      url: "https://scholar.google.com/citations?user=IYzv-hgAAAAJ&hl=en"
 ---
 
 I am a second year PhD Student at the University of Washington's [Institute for Public Health Genetics](https://iphg.biostat.washington.edu/) jointly advised by [Dr. Danny Miller](https://dlmp.uw.edu/faculty/miller) and [Dr. Brian Shirts](https://dlmp.uw.edu/faculty/shirts). My research is focused on optimizing long-read sequencing data for clinical care and population genetics.
