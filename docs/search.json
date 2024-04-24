@@ -14,11 +14,11 @@
     "text": "Garbhini-GA2 formula\n\n\n\n\n\n\n\nAI for healthcare\n\n\n\n\nDeveloping Garbhini-GA2, a first-of-its-kind India-specific AI-based model that predicts gestational age using 2nd and 3rd trimester ultrasound data.\n\n\n\n\n\n\nFeb 26, 2024\n\n\n\n\n\n\n  \n\n\n\n\nThe Language Project\n\n\n\n\n\n\n\nScience Communication\n\n\n\n\nA science communication initiative that aims to break the language barriers in understanding the fundamentals of genetics and synthetic biology to guide decision making.\n\n\n\n\n\n\nDec 1, 2018\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "variant_calling.html",
-    "href": "variant_calling.html",
-    "title": "Helpful links",
+    "objectID": "blog/variant_calling_phasing_software/index.html",
+    "href": "blog/variant_calling_phasing_software/index.html",
+    "title": "Variant calling and phasing",
     "section": "",
-    "text": "Adding a bunch of links here with useful software, explaining concepts, etc\n\n  \n\n\n\nStatistical genetics\nVariant calling\nPhasing software"
+    "text": "Variant calling and phasing software"
   },
   {
     "objectID": "index.html",
@@ -47,13 +47,6 @@
     "title": "Nikhita Damaraju",
     "section": "News",
     "text": "News\n\nThe first preprint as a part of the 1000 Genomes ONT Sequencing Consortium is out! We discuss our work in building a detailed catalog of human variation using 100 samples.\nRead more: Preprint | March 2024\nThe second paper from my dual degree (B.S. - M.S.) thesis project from Indian Institute of Technology, Madras is out in Lancet Regional Health - Southeast Asia! Read more: Published study and media coverage | February 2024\nOur mini-review on the clinical potential of long-read sequencing is out in the Journal of Applied Lab Medicine! Read more here | January 2024\nPresented a talk at 2023 Genome Informatics meeting, Cold Spring Harbor, NY | December 2023\nI spent a week as a TA for the Computational Genomics 2023 course at Cold Spring Harbor, NY | November 2023\nPresented a short talk at 2023 Stanford Genetics Conference on Structural Variants and DNA Repeats | September 2023"
-  },
-  {
-    "objectID": "helpful_links.html",
-    "href": "helpful_links.html",
-    "title": "Helpful links",
-    "section": "",
-    "text": "Adding a bunch of links here with useful software, concepts and tutorials\n\n  \n\n\n\nBioinformatics\nVariant calling and phasing software"
   },
   {
     "objectID": "projects.html",
@@ -89,6 +82,13 @@
     "title": "",
     "section": "Deriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework",
     "text": "Deriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework\nInflammatix inc. | Computational Biology intern | August 2021 - September 2021\nSkills: Statistical modeling, Microarray analysis, Multi-cohort analysis\n\nDerived a gene expression signature to distinguish between healthy controls and Systemic Lupus Erythematosus (SLE), validated in an independent set with high accuracy."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "under construction\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n\n\n\n\nVariant calling and phasing\n\n\n\n\n\n\n\nBioinformatics\n\n\n\n\nA summary of variant callers and phasing software\n\n\n\n\n \n\n\n\n\nNo matching items"
   },
   {
     "objectID": "media/Garbhini - GA2/index.html",

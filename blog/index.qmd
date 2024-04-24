@@ -20,6 +20,4 @@ under construction
 </div>
 :::
 
-### Bioinformatics
-
-[Variant calling and phasing software](https://github.com/nikhita-damaraju/bioinformatics/blob/main/phasing_resources.md)
+### 

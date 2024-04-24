@@ -5,5 +5,11 @@
       "/media/Garbhini - GA2/index.html",
       "/media/Language Project/index.html"
     ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/variant_calling_phasing_software/index.html"
+    ]
   }
 ]
