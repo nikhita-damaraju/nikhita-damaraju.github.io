@@ -3,6 +3,7 @@ title: "Variant calling and phasing"
 description: 
     A summary of variant callers and phasing software 
 categories: ["Bioinformatics"]
+date: 2024-01-03
 #image: hand-drawn-flat-design-sonography-illustration.jpg
 format:
   html:
