@@ -11,5 +11,16 @@
     "items": [
       "/blog/variant_calling_phasing_software/index.html"
     ]
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": [
+      "/projects/2021_inflammatix_lupus/index.html",
+      "/projects/2022_sinai_shrinkage/index.html"
+    ]
+  },
+  {
+    "listing": "/research/index.html",
+    "items": []
   }
 ]

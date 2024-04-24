@@ -1,0 +1,18 @@
+---
+title: Research 
+listing:
+  id: research
+  type: grid
+page-layout: full
+---
+<!-- <style> -->
+<!--   body { -->
+<!--   background-image: url('images/Icons_projects.png'); -->
+<!--   background-size: cover; -->
+<!--   background-repeat: no-repeat; -->
+<!-- } -->
+
+<!-- </style> -->
+---
+
+![](/images/Icons_projects.png){width="600"}
