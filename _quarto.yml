@@ -21,8 +21,8 @@ website:
 #        text: Publications
 #      - href: teaching.qmd
 #        text: Teaching
-#      - href: blog.qmd
-#        text: Blog
+      - href: blog
+        text: Blog
       - href: helpful_links.qmd
         text: Helpful links
       - href: media

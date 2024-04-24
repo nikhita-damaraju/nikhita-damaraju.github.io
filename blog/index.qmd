@@ -1,0 +1,25 @@
+---
+title: "Blog"
+listing:
+    contents: .
+    sort: date desc
+    type: default
+    categories: true
+    sort-ui: false
+    filter-ui: false
+    feed: true
+page-layout: full
+title-block-bannerrR: false
+---
+
+::: {#hero-heading}
+<div>
+
+under construction
+
+</div>
+:::
+
+### Bioinformatics
+
+[Variant calling and phasing software](https://github.com/nikhita-damaraju/bioinformatics/blob/main/phasing_resources.md)
