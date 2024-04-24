@@ -92,10 +92,6 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../helpful_links.qmd" rel="" target="">
- <span class="menu-text">Helpful links</span></a>
-  </li>  
-  <li class="nav-item">
     <a class="nav-link" href="../../media" rel="" target="">
  <span class="menu-text">Media</span></a>
   </li>  
@@ -128,11 +124,22 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#variant-callers" id="toc-variant-callers" class="nav-link active" data-scroll-target="#variant-callers">Variant callers</a></li>
+  <li><a href="#phasing-software" id="toc-phasing-software" class="nav-link" data-scroll-target="#phasing-software">Phasing software</a>
+  <ul class="collapse">
+  <li><a href="#population-based-phasing" id="toc-population-based-phasing" class="nav-link" data-scroll-target="#population-based-phasing">Population-based phasing</a></li>
+  <li><a href="#read-based-phasing" id="toc-read-based-phasing" class="nav-link" data-scroll-target="#read-based-phasing">Read-based phasing</a></li>
+  </ul></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -159,9 +166,33 @@ ul.task-list li input[type="checkbox"] {
 
 </header>
 
-<p><a href="https://github.com/nikhita-damaraju/bioinformatics/blob/main/phasing_resources.md">Variant calling and phasing software</a></p>
+<section id="variant-callers" class="level2">
+<h2 class="anchored" data-anchor-id="variant-callers">Variant callers</h2>
+<ol type="1">
+<li><p>Short-read:&nbsp;<a href="https://gatk.broadinstitute.org/hc/en-us">GATK</a>,&nbsp;<a href="https://varscan.sourceforge.net/">VarScan</a>,&nbsp;<a href="https://gatk.broadinstitute.org/hc/en-us/articles/360037593851-Mutect2">MuTect</a>, and&nbsp;<a href="https://csb5.github.io/lofreq/">LoFreq</a></p></li>
+<li><p>Long-read:&nbsp;<a href="https://github.com/HKU-BAL/Clair3">Clair3</a>,&nbsp;<a href="https://github.com/google/deepvariant">DeepVariant</a></p></li>
+</ol>
+</section>
+<section id="phasing-software" class="level2">
+<h2 class="anchored" data-anchor-id="phasing-software">Phasing software</h2>
+<section id="population-based-phasing" class="level3">
+<h3 class="anchored" data-anchor-id="population-based-phasing">Population-based phasing</h3>
+<p>Both of these methods need reference panels. The 1000G Phase3 reference panels can be found&nbsp;<a href="http://ftp.1000genomes.ebi.ac.uk/vol1/ftp/release/20130502/">here</a>.</p>
+<ol type="1">
+<li><p><a href="https://faculty.washington.edu/browning/beagle/beagle.html">Beagle</a></p></li>
+<li><p><a href="https://odelaneau.github.io/shapeit4/#installation">ShapeIT4</a></p></li>
+</ol>
+</section>
+<section id="read-based-phasing" class="level3">
+<h3 class="anchored" data-anchor-id="read-based-phasing">Read-based phasing</h3>
+<ol type="1">
+<li><p><a href="https://whatshap.readthedocs.io/en/latest/">WhatsHap</a>&nbsp;works well for both short and long reads</p></li>
+<li><p><a href="https://pypi.org/project/HAT-phasing/">HAT</a>&nbsp;is a method for short reads and long-reads</p></li>
+</ol>
 
 
+</section>
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

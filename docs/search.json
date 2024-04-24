@@ -18,7 +18,21 @@
     "href": "blog/variant_calling_phasing_software/index.html",
     "title": "Variant calling and phasing",
     "section": "",
-    "text": "Variant calling and phasing software"
+    "text": "Short-read: GATK, VarScan, MuTect, and LoFreq\nLong-read: Clair3, DeepVariant"
+  },
+  {
+    "objectID": "blog/variant_calling_phasing_software/index.html#variant-callers",
+    "href": "blog/variant_calling_phasing_software/index.html#variant-callers",
+    "title": "Variant calling and phasing",
+    "section": "",
+    "text": "Short-read: GATK, VarScan, MuTect, and LoFreq\nLong-read: Clair3, DeepVariant"
+  },
+  {
+    "objectID": "blog/variant_calling_phasing_software/index.html#phasing-software",
+    "href": "blog/variant_calling_phasing_software/index.html#phasing-software",
+    "title": "Variant calling and phasing",
+    "section": "Phasing software",
+    "text": "Phasing software\n\nPopulation-based phasing\nBoth of these methods need reference panels. The 1000G Phase3 reference panels can be found here.\n\nBeagle\nShapeIT4\n\n\n\nRead-based phasing\n\nWhatsHap works well for both short and long reads\nHAT is a method for short reads and long-reads"
   },
   {
     "objectID": "index.html",
