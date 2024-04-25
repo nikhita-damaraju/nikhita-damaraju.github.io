@@ -60,7 +60,21 @@
     "href": "index.html#news",
     "title": "Nikhita Damaraju",
     "section": "News",
-    "text": "News\n\nThe first preprint as a part of the 1000 Genomes ONT Sequencing Consortium is out! We discuss our work in building a detailed catalog of human variation using 100 samples.\nRead more: Preprint | March 2024\nThe second paper from my dual degree (B.S. - M.S.) thesis project from Indian Institute of Technology, Madras is out in Lancet Regional Health - Southeast Asia! Read more: Published study and media coverage | February 2024\nOur mini-review on the clinical potential of long-read sequencing is out in the Journal of Applied Lab Medicine! Read more here | January 2024\nPresented a talk at 2023 Genome Informatics meeting, Cold Spring Harbor, NY | December 2023\nI spent a week as a TA for the Computational Genomics 2023 course at Cold Spring Harbor, NY | November 2023\nPresented a short talk at 2023 Stanford Genetics Conference on Structural Variants and DNA Repeats | September 2023"
+    "text": "News\n\nOur latest preprint showing the concordance of whole genome nanopore sequencing with standard clinical testing for Prader-Willi and Angelman syndrome is out. Read more: Preprint | April 2024\nThe first preprint as a part of the 1000 Genomes ONT Sequencing Consortium is out! We discuss our work in building a detailed catalog of human variation using 100 samples. Read more: Preprint | March 2024\nThe second paper from my dual degree (B.S. - M.S.) thesis work from Indian Institute of Technology, Madras is out in Lancet Regional Health - Southeast Asia! Read more: Published study and media coverage | February 2024\nOur mini-review on the clinical potential of long-read sequencing is out in the Journal of Applied Lab Medicine! Read more here | January 2024\nPresented a talk at 2023 Genome Informatics meeting, Cold Spring Harbor, NY | December 2023\nI spent a week as a TA for the Computational Genomics 2023 course at Cold Spring Harbor, NY | November 2023\nPresented a short talk at 2023 Stanford Genetics Conference on Structural Variants and DNA Repeats | September 2023"
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "No matching items"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Deriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework.\n\n\n\n\n\n\n\nBiomarker discovery\n\n\nMeta analysis\n\n\n\n\nDerived a gene expression signature to distinguish between healthy controls and Systemic Lupus Erythematosus (SLE), validated in an independent set with high accuracy.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nStatistical insights to improve the prediction of polygenic risk score modelling.\n\n\n\n\n\n\n\nStatistical Genetics\n\n\n\n\nImplemented a novel shrinkage method on UK Biobank data and summarized key algorithmic considerations and biological insights at the NeuroPsych working group meeting.\n\n\n\n\n \n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects.html",
@@ -110,19 +124,5 @@
     "title": "Garbhini-GA2 formula",
     "section": "",
     "text": "https://t.co/3r7DlPRPc3— Quarto (@quarto_pub) February 26, 2024 \nMany women in lower and middle income countries (LMICs) seek antenatal care for the first time after their first trimester. Developing population-specific dating models has been shown to have better outcomes specifically among those with a higher risk of preterm birth. Read our published research study in The Lancet Regional Health Southeast Asia.\nOur work was featured in over 100 regional and national media outlets including The Economic Times, Times of India, The Hindu, The New Indian Express, Business Today, The Deccan Herald and Hindustan Times.\nI’m grateful to Dr. Himanshu Sinha for his mentorship and the opportunity to work on this collaborative project during my time as a dual degree student at Indian Institute of Technology, Madras alongside many wonderful people! I’d also like to thank members of the Translational Health Sciences Institute Fairdabad for their support and guidance throughout each step."
-  },
-  {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Deriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework.\n\n\n\n\n\n\n\nBiomarker discovery\n\n\nMeta analysis\n\n\n\n\nDerived a gene expression signature to distinguish between healthy controls and Systemic Lupus Erythematosus (SLE), validated in an independent set with high accuracy.\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nStatistical insights to improve the prediction of polygenic risk score modelling.\n\n\n\n\n\n\n\nStatistical Genetics\n\n\n\n\nImplemented a novel shrinkage method on UK Biobank data and summarized key algorithmic considerations and biological insights at the NeuroPsych working group meeting.\n\n\n\n\n \n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "Research",
-    "section": "",
-    "text": "No matching items"
   }
 ]
