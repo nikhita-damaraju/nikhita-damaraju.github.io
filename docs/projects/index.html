@@ -73,9 +73,9 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -187,7 +187,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-listing quarto-listing-container-default" id="listing-listing">
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="Statistical Genetics" data-listing-file-modified-sort="1714071403631" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="0" data-categories="Statistical Genetics" data-listing-date-sort="1641024000000" data-listing-file-modified-sort="1714073048182" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
 <div class="thumbnail">
 <p><a href="../projects/2022_sinai_shrinkage/index.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
 </div>
@@ -212,10 +212,14 @@ Statistical Genetics
 </a>
 </div>
 <div class="metadata">
-<a href="../projects/2022_sinai_shrinkage/index.html"> </a>
+<a href="../projects/2022_sinai_shrinkage/index.html">
+<div class="listing-date">
+Jan 1, 2022
+</div>
+</a>
 </div>
 </div>
-<div class="quarto-post image-right" data-index="1" data-categories="Biomarker discovery,Meta analysis" data-listing-file-modified-sort="1714071413349" data-listing-reading-time-sort="1">
+<div class="quarto-post image-right" data-index="1" data-categories="Biomarker discovery,Meta analysis" data-listing-date-sort="1609488000000" data-listing-file-modified-sort="1714073055864" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1">
 <div class="thumbnail">
 <p><a href="../projects/2021_inflammatix_lupus/index.html"> <div class="listing-item-img-placeholder card-img-top" >&nbsp;</div> </a></p>
 </div>
@@ -243,7 +247,11 @@ Meta analysis
 </a>
 </div>
 <div class="metadata">
-<a href="../projects/2021_inflammatix_lupus/index.html"> </a>
+<a href="../projects/2021_inflammatix_lupus/index.html">
+<div class="listing-date">
+Jan 1, 2021
+</div>
+</a>
 </div>
 </div>
 </div>

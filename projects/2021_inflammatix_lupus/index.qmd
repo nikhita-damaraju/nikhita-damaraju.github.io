@@ -3,7 +3,8 @@ title: "Deriving a gene signature for systemic lupus erythematosus with high dia
 description: |
   Derived a gene expression signature to distinguish between healthy controls and Systemic Lupus Erythematosus (SLE), validated in an independent set with high accuracy.
 categories: ["Biomarker discovery","Meta analysis"]
-year: 2021
+date: 01/01/2021
+date-format: "YYYY"
 format:
   html:
     df-print: paged
