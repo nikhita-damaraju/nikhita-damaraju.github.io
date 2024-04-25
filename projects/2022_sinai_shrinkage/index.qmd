@@ -3,6 +3,7 @@ title: "Statistical insights to improve the prediction of polygenic risk score m
 description: |
   Implemented a novel shrinkage method on UK Biobank data and summarized key algorithmic considerations and biological insights at the NeuroPsych working group meeting.
 categories: ["Statistical Genetics"]
+year: 2022
 format:
   html:
     df-print: paged
