@@ -8,19 +8,27 @@
   },
   {
     "listing": "/research/index.html",
-    "items": []
+    "items": [
+      "/research/Bioinformatics/index.html"
+    ]
   },
   {
     "listing": "/projects/index.html",
     "items": [
-      "/projects/2022_sinai_shrinkage/index.html",
-      "/projects/2021_inflammatix_lupus/index.html"
+      "/projects/2021_inflammatix_lupus/index.html",
+      "/projects/2022_sinai_shrinkage/index.html"
     ]
   },
   {
     "listing": "/blog/index.html",
     "items": [
       "/blog/variant_calling_phasing_software/index.html"
+    ]
+  },
+  {
+    "listing": "/research/Bioinformatics/index.html",
+    "items": [
+      "/projects/2021_inflammatix_lupus/index.html"
     ]
   }
 ]

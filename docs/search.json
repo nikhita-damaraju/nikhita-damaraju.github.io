@@ -74,7 +74,7 @@
     "href": "projects/index.html",
     "title": "Projects",
     "section": "",
-    "text": "Statistical insights to improve the prediction of polygenic risk score modelling.\n\n\n\n\n\n\n\nStatistical Genetics\n\n\n\n\nImplemented a novel shrinkage method on UK Biobank data and summarized key algorithmic considerations and biological insights at the NeuroPsych working group meeting.\n\n\n\n\n\n\nJan 1, 2022\n\n\n\n\n\n\n  \n\n\n\n\nDeriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework.\n\n\n\n\n\n\n\nBiomarker discovery\n\n\nMeta analysis\n\n\n\n\nDerived a gene expression signature to distinguish between healthy controls and Systemic Lupus Erythematosus (SLE), validated in an independent set with high accuracy.\n\n\n\n\n\n\nJan 1, 2021\n\n\n\n\n\n\nNo matching items"
+    "text": "Deriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework.\n\n\n\n\n\n\n\nBiomarker discovery\n\n\nMeta analysis\n\n\n\n\n\n\n\n\n\n \n\n\n\n\n  \n\n\n\n\nStatistical insights to improve the prediction of polygenic risk score modelling.\n\n\n\n\n\n\n\nStatistical Genetics\n\n\n\n\nImplemented a novel shrinkage method on UK Biobank data and summarized key algorithmic considerations and biological insights at the NeuroPsych working group meeting.\n\n\n\n\n\n\nJan 1, 2022\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects.html",
@@ -124,5 +124,19 @@
     "title": "Garbhini-GA2 formula",
     "section": "",
     "text": "https://t.co/3r7DlPRPc3— Quarto (@quarto_pub) February 26, 2024 \nMany women in lower and middle income countries (LMICs) seek antenatal care for the first time after their first trimester. Developing population-specific dating models has been shown to have better outcomes specifically among those with a higher risk of preterm birth. Read our published research study in The Lancet Regional Health Southeast Asia.\nOur work was featured in over 100 regional and national media outlets including The Economic Times, Times of India, The Hindu, The New Indian Express, Business Today, The Deccan Herald and Hindustan Times.\nI’m grateful to Dr. Himanshu Sinha for his mentorship and the opportunity to work on this collaborative project during my time as a dual degree student at Indian Institute of Technology, Madras alongside many wonderful people! I’d also like to thank members of the Translational Health Sciences Institute Fairdabad for their support and guidance throughout each step."
+  },
+  {
+    "objectID": "research/Bioinformatics/index.html",
+    "href": "research/Bioinformatics/index.html",
+    "title": "Bioinformatics",
+    "section": "",
+    "text": "#\nPushing the boundaries of fast electron spectroscopy, energy-monochromated and aberration-corrected scanning transmission electron microscopes have opened the far infrared to nanometer scale spatial mapping. Together with experiment, we leverage these advances to resolve open fundamental questions in nano-spectroscopy, perform entirely new materials characterization techniques at the single-particle level, and discover advanced materials endowed with unprecedented functionalities."
+  },
+  {
+    "objectID": "research/Bioinformatics/index.html#related-publications",
+    "href": "research/Bioinformatics/index.html#related-publications",
+    "title": "Bioinformatics",
+    "section": "Related Publications",
+    "text": "Related Publications\n\n\n    \n      \n      \n    \n\n\n\n\n  \n\n\n\n\nDeriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework.\n\n\n\n\n\n\n\nBioinformatics\n\n\nMedical Genetics\n\n\n \n\n\n \n\n\n\n\nNo matching items"
   }
 ]
