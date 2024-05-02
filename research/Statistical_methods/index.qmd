@@ -1,6 +1,6 @@
 ---
 title: Statistical Methods
-alias: &ALIAS Bioinformatics
+alias: &ALIAS Statistical_methods
 image: featured.jpg
 listing:
   id: pubs

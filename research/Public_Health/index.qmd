@@ -1,6 +1,6 @@
 ---
 title: Public Health
-alias: &ALIAS Bioinformatics
+alias: &ALIAS Public_health
 image: featured.jpg
 listing:
   id: pubs

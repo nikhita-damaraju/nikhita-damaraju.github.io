@@ -1,6 +1,6 @@
 ---
 title: Machine Learning
-alias: &ALIAS Bioinformatics
+alias: &ALIAS Machine_learning
 image: featured.jpg
 listing:
   id: pubs

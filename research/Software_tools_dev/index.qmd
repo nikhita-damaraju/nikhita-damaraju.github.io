@@ -1,6 +1,6 @@
 ---
 title: Software tools development
-alias: &ALIAS Bioinformatics
+alias: &ALIAS Software_tools_dev
 image: featured.jpg
 listing:
   id: pubs
