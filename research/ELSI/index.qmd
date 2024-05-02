@@ -11,7 +11,7 @@ listing:
   filter-ui: true
   include:
     categories: *ALIAS
-  fields: [publication, title, categories, image, date, author]
+  fields: [title, image, year]
 ---
 
 \#![](featured.jpg)
