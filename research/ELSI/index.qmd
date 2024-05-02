@@ -1,6 +1,6 @@
 ---
-title: Bioinformatics
-alias: &ALIAS Bioinformatics
+title: Ethical Legal Social Implications, Health Services and Health Economics
+alias: &ALIAS ELSI_health_services
 image: featured.jpg
 listing:
   id: pubs

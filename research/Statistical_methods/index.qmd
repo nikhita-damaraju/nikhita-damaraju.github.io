@@ -1,5 +1,5 @@
 ---
-title: Bioinformatics
+title: Statistical Methods
 alias: &ALIAS Bioinformatics
 image: featured.jpg
 listing:

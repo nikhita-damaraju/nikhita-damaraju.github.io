@@ -1,5 +1,5 @@
 ---
-title: Bioinformatics
+title: Public Health
 alias: &ALIAS Bioinformatics
 image: featured.jpg
 listing:

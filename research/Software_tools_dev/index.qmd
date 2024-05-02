@@ -1,5 +1,5 @@
 ---
-title: Bioinformatics
+title: Software tools development
 alias: &ALIAS Bioinformatics
 image: featured.jpg
 listing:

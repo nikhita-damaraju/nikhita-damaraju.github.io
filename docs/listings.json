@@ -9,7 +9,12 @@
   {
     "listing": "/research/index.html",
     "items": [
-      "/research/Bioinformatics/index.html"
+      "/research/Bioinformatics/index.html",
+      "/research/ELSI/index.html",
+      "/research/Machine_learning/index.html",
+      "/research/Public_Health/index.html",
+      "/research/Software_tools_dev/index.html",
+      "/research/Statistical_methods/index.html"
     ]
   },
   {
@@ -30,5 +35,33 @@
     "items": [
       "/projects/2021_inflammatix_lupus/index.html"
     ]
+  },
+  {
+    "listing": "/research/Software_tools_dev/index.html",
+    "items": [
+      "/projects/2021_inflammatix_lupus/index.html"
+    ]
+  },
+  {
+    "listing": "/research/Public_Health/index.html",
+    "items": [
+      "/projects/2021_inflammatix_lupus/index.html"
+    ]
+  },
+  {
+    "listing": "/research/Statistical_methods/index.html",
+    "items": [
+      "/projects/2021_inflammatix_lupus/index.html"
+    ]
+  },
+  {
+    "listing": "/research/Machine_learning/index.html",
+    "items": [
+      "/projects/2021_inflammatix_lupus/index.html"
+    ]
+  },
+  {
+    "listing": "/research/ELSI/index.html",
+    "items": []
   }
 ]
