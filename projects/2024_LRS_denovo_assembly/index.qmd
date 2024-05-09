@@ -1,5 +1,15 @@
 ---
-title: "Deriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework."
-categories: ["Bioinformatics","Medical_Genetics"]
-year: 2021
+title: "Evaluating quality of de novo assembly in 100 samples from the 1000 Genomes ONT sequencing consortium."
+categories: ["Bioinformatics"]
+year: 2024
+links:
+  - text: "Preprint"
+    url: "https://www.medrxiv.org/content/10.1101/2024.03.05.24303792v1"
 ---
+
+This project was done as a part of the first preprint from the 1000 Genomes ONT Sequencing Consortium.
+
+### Methods
+
+1.  Running de novo haploid and diploid assembly algorithms on 1000 Genomes ONT sequenced samples
+2.  Quality assessment of assembly algor

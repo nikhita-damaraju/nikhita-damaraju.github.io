@@ -1,6 +1,6 @@
 ---
 title: "Using social media as a lens to understand caregiver perspectives and barriers to care for pediatric rare genetic disorders"
-categories: ["Public_Health","ELSI_health_services"]
+categories: ["Public_health","ELSI_health_services"]
 year: 2024
 ---
 

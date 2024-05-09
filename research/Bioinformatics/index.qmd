@@ -4,14 +4,12 @@ alias: &ALIAS Bioinformatics
 image: featured.jpg
 listing:
   id: pubs
-  #template: ../../_ejs/publications-people.ejs 
   contents: ../../projects/**/*.qmd
   sort: "year desc"
-  # sort-ui: true
   filter-ui: true
   include:
     categories: *ALIAS
-  fields: [title, image, year]
+  fields: [title, image, year, links]
 ---
 
 \#![](featured.jpg)
