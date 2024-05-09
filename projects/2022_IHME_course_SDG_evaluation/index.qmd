@@ -1,0 +1,5 @@
+---
+title: "Deriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework."
+categories: ["Bioinformatics","Medical_Genetics"]
+year: 2021
+---
