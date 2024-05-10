@@ -8,17 +8,7 @@ This literature review report was done as a part of PHG 513: Pharmacogenomics an
 
 ### Motivation
 
-The etiology of PCOS is based on the intricate interactions between multiple genetic
-and environmental factors. PCOS highlights the vital need for a
-thorough understanding in order to provide tailored therapies and successful
-interventions. The complex interactions between insulin resistance,
-hyperandrogenism, and hormone dysregulation affect metabolic and reproductive
-processes, contributing to the wide range of clinical manifestations of this illness. The
-intricacy of PCOS and its effects on the world's female population are highlighted by
-the inclusion of environmental factors and the intricate interplay between genetic and
-environmental aspects. By addressing this complexity, we can improve the quality of
-life for individuals impacted by this complex endocrine condition and open the door to
-more focused and successful therapy approaches across different socio-environmental settings worldwide
+The etiology of PCOS is based on the intricate interactions between multiple genetic and environmental factors. PCOS highlights the vital need for a thorough understanding in order to provide tailored therapies and successful interventions. The complex interactions between insulin resistance, hyperandrogenism, and hormone dysregulation affect metabolic and reproductive processes, contributing to the wide range of clinical manifestations of this illness. The intricacy of PCOS and its effects on the world's female population are highlighted by the inclusion of environmental factors and the intricate interplay between genetic and environmental aspects. By addressing this complexity, we can improve the quality of life for individuals impacted by this complex endocrine condition and open the door to more focused and successful therapy approaches across different socio-environmental settings worldwide
 
 ### Topics analyzed
 

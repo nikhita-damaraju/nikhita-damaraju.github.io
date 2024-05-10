@@ -1,5 +1,27 @@
 ---
-title: "Deriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework."
-categories: ["Bioinformatics","Medical_Genetics"]
-year: 2021
+title: "XAI for clinical applications: present and future"
+categories: ["Machine_learning"]
+year: 2023 [<span style="color:blue; text-decoration:underline;">Slides</span>](https://drive.google.com/file/d/1GAhyvAdlxMn24AKH2efU-g_j80LKtn9D/view?usp=sharing)
 ---
+
+This presentation was a part of BIME 597 seminar in Spring 2023 at University of Washington.
+
+### Background
+
+XAI aims to bridge the gap between the complexity of AI algorithms and our ability to interpret and trust their decisions. It seeks to provide explanations for AI outputs, allowing one to understand the underlying logic, factors, or features that influenced those decisions. By providing explanations, XAI came into the picture to \"empower\" people to make informed judgments about the credibility and fairness of AI systems. So, essentially, in some way, it\'s a subset of AI. It can help in identifying potential biases, detect errors, and ensure that AI models are accountable and align with ethical standards. It can enable experts in various fields, such as healthcare to collaborate with AI systems effectively.
+
+However, it's important to note that implementing XAI is not without its challenges. Striking the right balance between transparency, accuracy, and privacy can be complex. Different models and techniques for XAI come with their own trade-offs, and finding the most suitable approach for each application requires careful consideration.
+
+In this presentation, I summarized the motivations behind XAI, the methods and techniques used to achieve explainability, and the potential benefits and limitations of adopting XAI in various domains.
+
+Slides - [XAI for clinical applications: present and future](https://drive.google.com/file/d/1GAhyvAdlxMn24AKH2efU-g_j80LKtn9D/view?usp=sharing)
+
+					
+
+				
+
+			
+
+		
+
+	
