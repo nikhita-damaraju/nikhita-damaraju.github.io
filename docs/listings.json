@@ -7,33 +7,8 @@
     ]
   },
   {
-    "listing": "/research/index.html",
-    "items": [
-      "/research/Bioinformatics/index.html",
-      "/research/ELSI/index.html",
-      "/research/Machine_learning/index.html",
-      "/research/Public_Health/index.html",
-      "/research/Software_tools_dev/index.html",
-      "/research/Statistical_methods/index.html"
-    ]
-  },
-  {
-    "listing": "/projects/index.html",
-    "items": [
-      "/projects/2021_inflammatix_lupus/index.html",
-      "/projects/2022_sinai_shrinkage/index.html"
-    ]
-  },
-  {
-    "listing": "/blog/index.html",
-    "items": [
-      "/blog/variant_calling_phasing_software/index.html"
-    ]
-  },
-  {
     "listing": "/research/Bioinformatics/index.html",
     "items": [
-      "/projects/2024_LRS_denovo_assembly/index.html",
       "/projects/2017_ChassiDex/index.html",
       "/projects/2018_Stanford_internship/index.html",
       "/projects/2019_Garbhini_DDP/index.html",
@@ -54,15 +29,30 @@
       "/projects/2023_Exposomics_review/index.html",
       "/projects/2023_XAI_clinical_applications/index.html",
       "/projects/2023_legal_memorandum_life_insurance_rare_disease/index.html",
-      "/projects/2023_pharmacoeconomic_evaluation_DMD_drug/index.html"
+      "/projects/2023_pharmacoeconomic_evaluation_DMD_drug/index.html",
+      "/projects/2024_LRS_denovo_assembly/index.html"
     ]
   },
   {
-    "listing": "/research/Software_tools_dev/index.html",
-    "items": []
+    "listing": "/research/ELSI/index.html",
+    "items": [
+      "/projects/2024_PCOS_pharmacogenomics_review/index.html",
+      "/projects/2024_social_science_research_method_rare_diseases/index.html"
+    ]
   },
   {
-    "listing": "/research/Public_Health/index.html",
+    "listing": "/research/index.html",
+    "items": [
+      "/research/Bioinformatics/index.html",
+      "/research/ELSI/index.html",
+      "/research/Machine_learning/index.html",
+      "/research/Public_Health/index.html",
+      "/research/Software_tools_dev/index.html",
+      "/research/Statistical_methods/index.html"
+    ]
+  },
+  {
+    "listing": "/research/Machine_learning/index.html",
     "items": []
   },
   {
@@ -70,13 +60,20 @@
     "items": []
   },
   {
-    "listing": "/research/Machine_learning/index.html",
+    "listing": "/research/Public_Health/index.html",
+    "items": [
+      "/projects/2024_PCOS_pharmacogenomics_review/index.html",
+      "/projects/2024_social_science_research_method_rare_diseases/index.html"
+    ]
+  },
+  {
+    "listing": "/research/Software_tools_dev/index.html",
     "items": []
   },
   {
-    "listing": "/research/ELSI/index.html",
+    "listing": "/blog/index.html",
     "items": [
-      "/projects/2024_social_science_research_method_rare_diseases/index.html"
+      "/blog/variant_calling_phasing_software/index.html"
     ]
   }
 ]
