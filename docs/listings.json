@@ -25,7 +25,6 @@
       "/projects/2022_ELSI_rare_genetic_diseases/index.html",
       "/projects/2022_IHME_course_SDG_evaluation/index.html",
       "/projects/2022_workplace_physical_activity_intervention/index.html",
-      "/projects/2023_3HP_Mozambique/index.html",
       "/projects/2023_legal_memorandum_life_insurance_rare_disease/index.html",
       "/projects/2023_pharmacoeconomic_evaluation_DMD_drug/index.html",
       "/projects/2024_LRS_denovo_assembly/index.html"
@@ -58,12 +57,17 @@
   },
   {
     "listing": "/research/Statistical_methods/index.html",
-    "items": []
+    "items": [
+      "/projects/2023_3HP_Mozambique/index.html",
+      "/projects/2023_TLD_Mozambique/index.html"
+    ]
   },
   {
     "listing": "/research/Public_Health/index.html",
     "items": [
+      "/projects/2023_3HP_Mozambique/index.html",
       "/projects/2023_Exposomics_review/index.html",
+      "/projects/2023_TLD_Mozambique/index.html",
       "/projects/2024_PCOS_pharmacogenomics_review/index.html",
       "/projects/2024_social_science_research_method_rare_diseases/index.html"
     ]

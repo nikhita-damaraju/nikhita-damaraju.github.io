@@ -6,7 +6,7 @@ listing:
   id: pubs
   #template: ../../_ejs/publications-people.ejs 
   contents: ../../projects/**/*.qmd
-  sort: "year"
+  sort: "year desc"
   # sort-ui: true
   filter-ui: true
   include:

@@ -1,12 +1,12 @@
 ---
 title: Statistical Methods
-alias: &ALIAS Statistical_methods
+alias: &ALIAS Statistics
 image: featured.jpg
 listing:
   id: pubs
   #template: ../../_ejs/publications-people.ejs 
   contents: ../../projects/**/*.qmd
-  sort: "year"
+  sort: "year desc"
   # sort-ui: true
   filter-ui: true
   include:
