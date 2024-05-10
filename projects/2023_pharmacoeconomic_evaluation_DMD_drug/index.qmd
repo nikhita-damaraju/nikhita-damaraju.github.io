@@ -1,5 +1,13 @@
 ---
-title: "Deriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework."
-categories: ["Bioinformatics","Medical_Genetics"]
-year: 2021
+title: "Assessing the value of delandistrogene moxeparvovec (SRP-9001) gene therapy in patients with Duchenne muscular dystrophy in the United States"
+categories: ["Public_health","ELSI_health_services", "Medical_Genetics"]
+year: 2023
 ---
+
+This project done as a part of HEOR 500 Intro to Pharmacoeconomics course in Spring 2023 at University of Washington.
+
+### Motivation
+
+Duchenne muscular dystrophy (DMD) is a X-linked degenerative neuromuscular diseases caused by a gene mutation in the DMD region of the X chromosome. The phenotype results in the loss of expression of dystrophin, a protein required to preserve muscle integrity during contraction. DMD is a rare genetic disorder that currently affects over 10000 males in the United States. Symptoms start before birth and progress to delayed developmental milestones eventually resulting premature death due to complications such as respiratory insufficiency and cardiomyopathy. There is currently no cure for DMD and standard of care (SoC) includes but is not limited to, corticosteroid use in the early years leading to multidisciplinary management options to preserve ambulatory function.
+
+Recently, investigational gene therapies such as SRP-9001 have been granted a Fast Track FDA status for the treatment of DMD intending to be a single intravenous-based treatment strategy. In order to increase the inclusion in insurance coverage policies, this study aims to conduct a comprehensive CEA that comparatively evaluates the relative costs of SPR-9001 plus SoC vs standalone SoC from the perspective of a US healthcare payer.

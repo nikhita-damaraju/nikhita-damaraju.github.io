@@ -1,5 +1,11 @@
 ---
-title: "Deriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework."
-categories: ["Bioinformatics","Medical_Genetics"]
-year: 2021
+title: "Legal Memorandum on genetic discrimination in long-term insurance for individuals with rare genetic diseases"
+categories: ["Public_health","ELSI_health_services"]
+year: 2023
 ---
+
+This project was written in the style of a legal memorandum as a part of LAW H 520 Genetics And The Lawcourse in Winter 2023 at University of Washington.
+
+### Motivation
+
+Rare genetic diseases can pose unique challenges for individuals and their families. In order to navigate these challenges, it is important to have access to comprehensive insurance coverage that includes genetic testing and treatment. However, insurance coverage for genetic-related issues can often be complex and difficult to understand. While there are some state laws in place that offer additional protections against genetic discrimination in insurance coverage for those with rare genetic diseases, the federal exemption under the Genetic Information Non-discrimination Act (GINA) can still create uncertainty. In light of these complexities, it is important to explore the various state-level protections against genetic discrimination to fully understand the landscape of genetic discrimination in the US. By doing so, individuals can make informed decisions about disclosing genetic information for IVF while minimizing his risk of discrimination from insurers.
