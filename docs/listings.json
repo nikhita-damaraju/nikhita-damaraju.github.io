@@ -1,10 +1,8 @@
 [
   {
-    "listing": "/media/index.html",
+    "listing": "/blog/index.html",
     "items": [
-      "/media/1kg preprint/index.html",
-      "/media/Garbhini - GA2/index.html",
-      "/media/Language Project/index.html"
+      "/blog/variant_calling_phasing_software/index.html"
     ]
   },
   {
@@ -80,9 +78,11 @@
     "items": []
   },
   {
-    "listing": "/blog/index.html",
+    "listing": "/media/index.html",
     "items": [
-      "/blog/variant_calling_phasing_software/index.html"
+      "/media/1kg preprint/index.html",
+      "/media/Garbhini - GA2/index.html",
+      "/media/Language Project/index.html"
     ]
   }
 ]
