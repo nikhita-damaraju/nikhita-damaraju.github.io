@@ -1,0 +1,22 @@
+---
+title: "Preprint from the 1000 Genomes ONT Sequencing Consortium"
+description: |
+    The first preprint that analyses data from the 1000 Genomes ONT Sequencing Consortium is out where we analyzed SNVs, genome assembly, structural variation, methylation and repeat expansions. 
+date: 2024-03-07
+categories: ["Genomics"]
+image: long-read-sequencing.png
+format:
+  html:
+    df-print: paged
+    toc: true
+google-scholar: false
+---
+
+Using long-read sequencing data from the 1000 Genomes Project can improve our understanding of normal patterns of human variation. The impact of using long-reads, particularly in difficult-to-detect regions of the genome can be immense clinically. As more samples are sequenced, this dataset can be used as a variant prioritization set for the development of different types of clinical applications.
+
+Our work was featured in [Genome Web](https://www.genomeweb.com/sequencing/long-read-nanopore-sequencing-boosts-structural-variant-analysis-1000-genomes-project?_ga=2.59259883.751286353.1715586008-1330811547.1715586008&adobe_mc=MCMID%3D34839719069782675350042939182093841809%7CMCORGID%3D138FFF2554E6E7220A4C98C6%2540AdobeOrg%7CTS%3D1715586017&CSAuthResp=1%3A%3A2718390%3A1911%3A24%3Asuccess%3ABD95489E51E33D97E8EE3E03941CA6FD) and the [Brotman Baty Institute's newsletter](https://brotmanbaty.org/news/long-read-sequencing-consortium-offers-phd-students-a-role-in-addressing).
+
+```{=html}
+<blockquote class="twitter-tweet" width="300" height="200"><p lang="en" dir="ltr"><a href="https://t.co/3r7DlPRPc3">https://t.co/3r7DlPRPc3</a></p>&mdash; Quarto (@quarto_pub) <a href="https://twitter.com/BrotmanBaty/status/1775931342418800685">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+```
+I'm grateful to Dr. Danny Miller for the opportunity to work on this collaborative project as a part of my dissertation work at University of Washington.

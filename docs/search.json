@@ -11,7 +11,7 @@
     "href": "media/index.html",
     "title": "In media",
     "section": "",
-    "text": "Garbhini-GA2 formula\n\n\n\n\n\n\n\nAI for healthcare\n\n\n\n\nDeveloping Garbhini-GA2, a first-of-its-kind India-specific AI-based model that predicts gestational age using 2nd and 3rd trimester ultrasound data.\n\n\n\n\n\n\nFeb 26, 2024\n\n\n\n\n\n\n  \n\n\n\n\nThe Language Project\n\n\n\n\n\n\n\nScience Communication\n\n\n\n\nA science communication initiative that aims to break the language barriers in understanding the fundamentals of genetics and synthetic biology to guide decision making.\n\n\n\n\n\n\nDec 1, 2018\n\n\n\n\n\n\nNo matching items"
+    "text": "Preprint from the 1000 Genomes ONT Sequencing Consortium\n\n\n\n\n\n\n\nLong-read sequencing\n\n\nGenomics\n\n\n\n\nThe first preprint that analyses data from the 1000 Genomes ONT Sequencing Consortium is out where we analyzed SNVs, genome assembly, structural variation, methylation and repeat expansions.\n\n\n\n\n\n\nMar 7, 2024\n\n\n\n\n\n\n  \n\n\n\n\nGarbhini-GA2 formula\n\n\n\n\n\n\n\nAI for healthcare\n\n\n\n\nDeveloping Garbhini-GA2, a first-of-its-kind India-specific AI-based model that predicts gestational age using 2nd and 3rd trimester ultrasound data.\n\n\n\n\n\n\nFeb 26, 2024\n\n\n\n\n\n\n  \n\n\n\n\nThe Language Project\n\n\n\n\n\n\n\nScience Communication\n\n\n\n\nA science communication initiative that aims to break the language barriers in understanding the fundamentals of genetics and synthetic biology to guide decision making.\n\n\n\n\n\n\nDec 1, 2018\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog/variant_calling_phasing_software/index.html",
@@ -257,5 +257,12 @@
     "title": "Legal Memorandum on genetic discrimination in long-term insurance for individuals with rare genetic diseases",
     "section": "",
     "text": "This project was written in the style of a legal memorandum as a part of LAW H 520 Genetics And The Lawcourse in Winter 2023 at University of Washington.\n\nMotivation\nRare genetic diseases can pose unique challenges for individuals and their families. In order to navigate these challenges, it is important to have access to comprehensive insurance coverage that includes genetic testing and treatment. However, insurance coverage for genetic-related issues can often be complex and difficult to understand. While there are some state laws in place that offer additional protections against genetic discrimination in insurance coverage for those with rare genetic diseases, the federal exemption under the Genetic Information Non-discrimination Act (GINA) can still create uncertainty. In light of these complexities, it is important to explore the various state-level protections against genetic discrimination to fully understand the landscape of genetic discrimination in the US. By doing so, individuals can make informed decisions about disclosing genetic information for IVF while minimizing his risk of discrimination from insurers."
+  },
+  {
+    "objectID": "media/1kg preprint/index.html",
+    "href": "media/1kg preprint/index.html",
+    "title": "Preprint from the 1000 Genomes ONT Sequencing Consortium",
+    "section": "",
+    "text": "Using long-read sequencing data from the 1000 Genomes Project can improve our understanding of normal patterns of human variation. The impact of using long-reads, particularly in difficult-to-detect regions of the genome can be immense clinically. As more samples are sequenced, this dataset can be used as a variant prioritization set for the development of different types of clinical applications.\nOur work was featured in Genome Web and the Brotman Baty Institute’s newsletter.\nhttps://t.co/3r7DlPRPc3— Quarto (@quarto_pub) February 26, 2024 \nI’m grateful to Dr. Danny Miller for the opportunity to work on this collaborative project as a part of my dissertation work at University of Washington."
   }
 ]
