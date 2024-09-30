@@ -23,7 +23,7 @@ about:
       url: "https://scholar.google.com/citations?user=IYzv-hgAAAAJ&hl=en"
 ---
 
-I am a second year PhD Student at the University of Washington's [Institute for Public Health Genetics](https://iphg.biostat.washington.edu/) jointly advised by [Dr. Danny Miller](https://dlmp.uw.edu/faculty/miller) and [Dr. Brian Shirts](https://dlmp.uw.edu/faculty/shirts). My research is focused on optimizing long-read sequencing data for clinical care and population genetics.
+I am a second year PhD Student at the University of Washington's [Institute for Public Health Genetics](https://iphg.biostat.washington.edu/) in the [Miller lab](https://millerlaboratory.com/). My research interests include bioinformatics, statistical genetics and health economics. My dissertation focuses on evaluating long-read sequencing for clinical care and developing applications that leverage this technology in clinical settings.
 
 When I'm not busy with my research, I enjoy hiking, kayaking, archery and playing the violin!
 
@@ -63,6 +63,14 @@ When I'm not busy with my research, I enjoy hiking, kayaking, archery and playin
 
 ## News
 
+-   Presented a talk on evaluating phasing and showcased a workflow demo on behalf of the Miller Lab at the Nanopore Community Meeting in Boston \| September 2024
+
+-   My phasing stats shiny app is now online! Link: [Website](https://nikhita-damaraju.shinyapps.io/phasing_stats_app/) \| August 2024
+
+-   Presented a talk at Cascadia R Conference. Talk: [R-tificial Intelligence, A guide to using R for ML](https://youtu.be/9_QlWAJgh94?feature=shared) \| July 2024
+
+-   I successfully passed my PhD prelim exams! \| June 2024
+
 -   Our latest preprint showing the concordance of whole genome nanopore sequencing with standard clinical testing for Prader-Willi and Angelman syndrome is out. Read more: [Preprint](https://www.medrxiv.org/content/10.1101/2024.04.02.24305233v1) \| April 2024
 
 -   The first preprint as a part of the [1000 Genomes ONT Sequencing Consortium](https://millerlaboratory.com/1000G-ONT.html) is out! We discuss our work in building a detailed catalog of human variation using 100 samples. Read more: [Preprint](https://pubmed.ncbi.nlm.nih.gov/38496498/) \| March 2024
@@ -74,5 +82,3 @@ When I'm not busy with my research, I enjoy hiking, kayaking, archery and playin
 -   Presented a talk at 2023 Genome Informatics meeting, Cold Spring Harbor, NY \| December 2023
 
 -   I spent a week as a TA for the Computational Genomics 2023 course at Cold Spring Harbor, NY \| November 2023
-
--   Presented a short talk at 2023 Stanford Genetics Conference on Structural Variants and DNA Repeats \| September 2023
