@@ -1,0 +1,15 @@
+---
+title: "Brotman Baty Institute - Promising Young Scientist article"
+description: I was recently interviewed by the Brotman Baty Institute as part of their Promising Young Scientist series to discuss my background and motivation for pursuing science. 
+date: 2024-12-03
+categories: ["Interview"]
+image: BBI_PYS_image.jpg
+format:
+  html:
+    df-print: paged
+    toc: true
+google-scholar: false
+---
+
+[Read more](https://brotmanbaty.org/news/promising-young-scientist-a-public-health-geneticist-blends-bioinformatics)
+---

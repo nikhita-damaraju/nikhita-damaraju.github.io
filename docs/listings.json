@@ -1,8 +1,52 @@
 [
   {
-    "listing": "/blog/index.html",
+    "listing": "/research/Software_tools_dev/index.html",
+    "items": []
+  },
+  {
+    "listing": "/research/Public_Health/index.html",
     "items": [
-      "/blog/variant_calling_phasing_software/index.html"
+      "/projects/2023_3HP_Mozambique/index.html",
+      "/projects/2023_Exposomics_review/index.html",
+      "/projects/2024_PCOS_pharmacogenomics_review/index.html",
+      "/projects/2024_social_science_research_method_rare_diseases/index.html",
+      "/projects/2023_TLD_Mozambique/index.html",
+      "/projects/2023_legal_memorandum_life_insurance_rare_disease/index.html",
+      "/projects/2023_pharmacoeconomic_evaluation_DMD_drug/index.html"
+    ]
+  },
+  {
+    "listing": "/research/Statistical_methods/index.html",
+    "items": [
+      "/projects/2023_3HP_Mozambique/index.html",
+      "/projects/2023_TLD_Mozambique/index.html"
+    ]
+  },
+  {
+    "listing": "/research/Machine_learning/index.html",
+    "items": [
+      "/projects/2023_XAI_clinical_applications/index.html"
+    ]
+  },
+  {
+    "listing": "/research/index.html",
+    "items": [
+      "/research/Bioinformatics/index.html",
+      "/research/ELSI/index.html",
+      "/research/Machine_learning/index.html",
+      "/research/Public_Health/index.html",
+      "/research/Software_tools_dev/index.html",
+      "/research/Statistical_methods/index.html"
+    ]
+  },
+  {
+    "listing": "/research/ELSI/index.html",
+    "items": [
+      "/projects/2023_Exposomics_review/index.html",
+      "/projects/2023_legal_memorandum_life_insurance_rare_disease/index.html",
+      "/projects/2023_pharmacoeconomic_evaluation_DMD_drug/index.html",
+      "/projects/2024_PCOS_pharmacogenomics_review/index.html",
+      "/projects/2024_social_science_research_method_rare_diseases/index.html"
     ]
   },
   {
@@ -28,58 +72,15 @@
     ]
   },
   {
-    "listing": "/research/ELSI/index.html",
+    "listing": "/blog/index.html",
     "items": [
-      "/projects/2023_Exposomics_review/index.html",
-      "/projects/2023_legal_memorandum_life_insurance_rare_disease/index.html",
-      "/projects/2023_pharmacoeconomic_evaluation_DMD_drug/index.html",
-      "/projects/2024_PCOS_pharmacogenomics_review/index.html",
-      "/projects/2024_social_science_research_method_rare_diseases/index.html"
+      "/blog/variant_calling_phasing_software/index.html"
     ]
-  },
-  {
-    "listing": "/research/index.html",
-    "items": [
-      "/research/Bioinformatics/index.html",
-      "/research/ELSI/index.html",
-      "/research/Machine_learning/index.html",
-      "/research/Public_Health/index.html",
-      "/research/Software_tools_dev/index.html",
-      "/research/Statistical_methods/index.html"
-    ]
-  },
-  {
-    "listing": "/research/Machine_learning/index.html",
-    "items": [
-      "/projects/2023_XAI_clinical_applications/index.html"
-    ]
-  },
-  {
-    "listing": "/research/Statistical_methods/index.html",
-    "items": [
-      "/projects/2023_3HP_Mozambique/index.html",
-      "/projects/2023_TLD_Mozambique/index.html"
-    ]
-  },
-  {
-    "listing": "/research/Public_Health/index.html",
-    "items": [
-      "/projects/2023_3HP_Mozambique/index.html",
-      "/projects/2023_Exposomics_review/index.html",
-      "/projects/2024_PCOS_pharmacogenomics_review/index.html",
-      "/projects/2024_social_science_research_method_rare_diseases/index.html",
-      "/projects/2023_TLD_Mozambique/index.html",
-      "/projects/2023_legal_memorandum_life_insurance_rare_disease/index.html",
-      "/projects/2023_pharmacoeconomic_evaluation_DMD_drug/index.html"
-    ]
-  },
-  {
-    "listing": "/research/Software_tools_dev/index.html",
-    "items": []
   },
   {
     "listing": "/media/index.html",
     "items": [
+      "/media/Promising Young Scientist - BBI/index.html",
       "/media/1kg preprint/index.html",
       "/media/Garbhini - GA2/index.html",
       "/media/Language Project/index.html"
