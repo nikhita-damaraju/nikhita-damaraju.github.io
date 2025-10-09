@@ -13,18 +13,8 @@ website:
         text: About
       - href: ./Nikhita_Damaraju_Academic_CV_2025.pdf
         text: CV
-#      - href: projects.qmd
-#        text: Projects
-#      - href: talks.qmd
-#        text: Talks
-#      - href: publications.qmd
-#        text: Publications
-#      - href: teaching.qmd
-#        text: Teaching
       - href: blog
         text: Blog
-#      - href: helpful_links.qmd
-#        text: Helpful links
       - href: media
         text: Media
     

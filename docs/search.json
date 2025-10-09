@@ -14,25 +14,11 @@
     "text": "Using long-read sequencing data from the 1000 Genomes Project can improve our understanding of normal patterns of human variation. The impact of using long-reads, particularly in difficult-to-detect regions of the genome can be immense clinically. As more samples are sequenced, this dataset can be used as a variant prioritization set for the development of different types of clinical applications.\nOur work was featured in Genome Web and the Brotman Baty Institute’s newsletter.\nhttps://t.co/3r7DlPRPc3— Quarto (@quarto_pub) February 26, 2024 \nI’m grateful to Dr. Danny Miller for the opportunity to work on this collaborative project as a part of my dissertation work at University of Washington."
   },
   {
-    "objectID": "blog/variant_calling_phasing_software/index.html",
-    "href": "blog/variant_calling_phasing_software/index.html",
-    "title": "Variant calling and phasing",
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
     "section": "",
-    "text": "Short-read: GATK, VarScan, MuTect, and LoFreq\nLong-read: Clair3, DeepVariant"
-  },
-  {
-    "objectID": "blog/variant_calling_phasing_software/index.html#variant-callers",
-    "href": "blog/variant_calling_phasing_software/index.html#variant-callers",
-    "title": "Variant calling and phasing",
-    "section": "",
-    "text": "Short-read: GATK, VarScan, MuTect, and LoFreq\nLong-read: Clair3, DeepVariant"
-  },
-  {
-    "objectID": "blog/variant_calling_phasing_software/index.html#phasing-software",
-    "href": "blog/variant_calling_phasing_software/index.html#phasing-software",
-    "title": "Variant calling and phasing",
-    "section": "Phasing software",
-    "text": "Phasing software\n\nPopulation-based phasing\nBoth of these methods need reference panels. The 1000G Phase3 reference panels can be found here.\n\nBeagle\nShapeIT4\n\n\n\nRead-based phasing\n\nWhatsHap works well for both short and long reads\nHAT is a method for short reads and long-reads"
+    "text": "under construction\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVariant calling and phasing\n\n\n\nBioinformatics\n\n\n\nA summary of variant callers and phasing software\n\n\n\n\n\nJan 3, 2024\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -63,193 +49,25 @@
     "text": "News\n\nI will be moderating a session for AI in Genomics and presenting a poster on LRSxIBD at the American Society of Human Genetics meeting 2024 in Boston. | October 2025\nGave a talk on how to stay organized in grad school using Notion for the Institute for Public Genetics Retreat 2025 | September 2025\nI successfully passed my PhD general exam (proposal defense)! | February 2025\nI was interviewed as a part of the ‘Promising Young Scientist’ series by Brotman Baty Institute for Precision Medicine. Read more: Article | January 2025\nOur latest manuscript showing the concordance of whole genome nanopore sequencing with standard clinical testing for Prader-Willi and Angelman syndrome is now online at the Journal of Molecular Diagnostics. Read more: Paper | December 2024\nAnalysis of the first 100 genomes sequenced as a part of the 1000 Genomes ONT Sequencing Consortium is published in Genome Research! Read more: Paper | November 2024\nI spent a week as a TA for the Computational Genomics 2024 course at Cold Spring Harbor, NY | November 2024\nPresented a poster on my phasing work using 1000G-ONT data at the American Society of Human Genetics meeting 2024 in Denver, CO. | November 2024"
   },
   {
-    "objectID": "projects/2023_XAI_clinical_applications/index.html",
-    "href": "projects/2023_XAI_clinical_applications/index.html",
-    "title": "XAI for clinical applications: present and future",
+    "objectID": "blog/variant_calling_phasing_software/index.html",
+    "href": "blog/variant_calling_phasing_software/index.html",
+    "title": "Variant calling and phasing",
     "section": "",
-    "text": "This presentation was a part of BIME 597 seminar in Spring 2023 at University of Washington.\n\nBackground\nXAI aims to bridge the gap between the complexity of AI algorithms and our ability to interpret and trust their decisions. It seeks to provide explanations for AI outputs, allowing one to understand the underlying logic, factors, or features that influenced those decisions. By providing explanations, XAI came into the picture to \"empower\" people to make informed judgments about the credibility and fairness of AI systems. So, essentially, in some way, it's a subset of AI. It can help in identifying potential biases, detect errors, and ensure that AI models are accountable and align with ethical standards. It can enable experts in various fields, such as healthcare to collaborate with AI systems effectively.\nHowever, it’s important to note that implementing XAI is not without its challenges. Striking the right balance between transparency, accuracy, and privacy can be complex. Different models and techniques for XAI come with their own trade-offs, and finding the most suitable approach for each application requires careful consideration.\nIn this presentation, I summarized the motivations behind XAI, the methods and techniques used to achieve explainability, and the potential benefits and limitations of adopting XAI in various domains.\nSlides - XAI for clinical applications: present and future"
+    "text": "Short-read: GATK, VarScan, MuTect, and LoFreq\nLong-read: Clair3, DeepVariant"
   },
   {
-    "objectID": "projects/2024_LRS_denovo_assembly/index.html",
-    "href": "projects/2024_LRS_denovo_assembly/index.html",
-    "title": "Evaluating quality of de novo assembly in 100 samples from the 1000 Genomes ONT sequencing consortium.",
+    "objectID": "blog/variant_calling_phasing_software/index.html#variant-callers",
+    "href": "blog/variant_calling_phasing_software/index.html#variant-callers",
+    "title": "Variant calling and phasing",
     "section": "",
-    "text": "This project was done as a part of the first preprint from the 1000 Genomes ONT Sequencing Consortium. Read more here.\n\nMethods\n\nRunning de novo haploid and diploid assembly pipelines on 1000 Genomes ONT sequenced samples.\nQuality assessment of assembly algorithms using software.\nEvaluating assembly quality in OMIM genes."
+    "text": "Short-read: GATK, VarScan, MuTect, and LoFreq\nLong-read: Clair3, DeepVariant"
   },
   {
-    "objectID": "projects/2024_social_science_research_method_rare_diseases/index.html",
-    "href": "projects/2024_social_science_research_method_rare_diseases/index.html",
-    "title": "Using social media as a lens to understand caregiver perspectives and barriers to care for pediatric rare genetic disorders",
-    "section": "",
-    "text": "This project was done as a part of GH 539: Analyzing Qualitative Data in Winter 2024 at University of Washington.\n\nMotivation\nAccording to the Orphan Drug Act, fewer than 200,000 people in the United States suffer from a rare disease, and about 400 million people worldwide face rare diseases. The complexity comes from the fact that 95% of these conditions have no FDA-approved treatment and 65% are associated with reduced life expectancy and quality of life. The frequency of rare diseases, especially genetic diseases, in children under 5 years old is increasing every year. Seeking a diagnosis can be emotionally and financially taxing, with the added risk of getting a misdiagnosis of common conditions. \nSocial media plays a vital role in providing a wider reach and connecting parents facing these challenges and provides a platform of support. An active rare disease community on social media offers a unique opportunity for research that provides insights that help understand these diseases and enable treatment options. The utilization of social media platforms, particularly Facebook and Instagram, by parents of children with rare genetic disorders is a phenomenon that has received attention in existing literature. Specifically in situations where offline support groups for specific rare disorders are unavailable, social media serves as an important tool that offers a sense of community, understanding, and sharing experiences.\n\n\nAims\n\nIdentifying patterns and trends in social media engagement among parents and caregivers,\nExploring implications of social media usage in different aspects of pediatric rare genetic disorders such as diagnosis, treatment, health insurance, etc.\n\n\n\nMethods\n\nCodebook development to analyze data from published news articles of caregivers and research studies.\nIdentifying social science theoretical frameworks suitable for analyzing the aims of the project.\nThematic analysis to identify key patterns to answer the question of interest."
-  },
-  {
-    "objectID": "research/Software_tools_dev/index.html",
-    "href": "research/Software_tools_dev/index.html",
-    "title": "Software tools development",
-    "section": "",
-    "text": "#\nPushing the boundaries of fast electron spectroscopy, energy-monochromated and aberration-corrected scanning transmission electron microscopes have opened the far infrared to nanometer scale spatial mapping. Together with experiment, we leverage these advances to resolve open fundamental questions in nano-spectroscopy, perform entirely new materials characterization techniques at the single-particle level, and discover advanced materials endowed with unprecedented functionalities."
-  },
-  {
-    "objectID": "research/Software_tools_dev/index.html#projects",
-    "href": "research/Software_tools_dev/index.html#projects",
-    "title": "Software tools development",
-    "section": "Projects",
-    "text": "Projects\n\n\n    \n      \n      \n    \n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "research/Public_Health/index.html",
-    "href": "research/Public_Health/index.html",
-    "title": "Public Health",
-    "section": "",
-    "text": "#\nPushing the boundaries of fast electron spectroscopy, energy-monochromated and aberration-corrected scanning transmission electron microscopes have opened the far infrared to nanometer scale spatial mapping. Together with experiment, we leverage these advances to resolve open fundamental questions in nano-spectroscopy, perform entirely new materials characterization techniques at the single-particle level, and discover advanced materials endowed with unprecedented functionalities."
-  },
-  {
-    "objectID": "research/Public_Health/index.html#projects",
-    "href": "research/Public_Health/index.html#projects",
-    "title": "Public Health",
-    "section": "Projects",
-    "text": "Projects\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nActive safety monitoring of Isoniazid and Rifapentine (3HP) among ART patients in Mozambique\n\n\n\n\n\n2023\n\n\n\n\n\n\n\n\n\n\n\n\nExposomics in Practice: Multidisciplinary Perspectives on Environmental Health and Risk Assessment.\n\n\n\n\n\n2023 Published article\n\n\n\n\n\n\n\n\n\n\n\n\nReviewing the Public Health Genetic Landscape of Polycystic Ovarian Syndrome\n\n\n\n\n\n2024\n\n\n\n\n\n\n\n\n\n\n\n\nUsing social media as a lens to understand caregiver perspectives and barriers to care for pediatric rare genetic disorders\n\n\n\n\n\n2024\n\n\n\n\n\n\n\n\n\n\n\n\nCohort Event Monitoring of Patients Treated with a Tenofovir/Lamivudine/Dolutegravir (TLD) Regimen in Mozambique\n\n\n\n\n\n2023\n\n\n\n\n\n\n\n\n\n\n\n\nLegal Memorandum on genetic discrimination in long-term insurance for individuals with rare genetic diseases\n\n\n\n\n\n2023\n\n\n\n\n\n\n\n\n\n\n\n\nAssessing the value of delandistrogene moxeparvovec (SRP-9001) gene therapy in patients with Duchenne muscular dystrophy in the United States\n\n\n\n\n\n2023\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "research/Statistical_methods/index.html",
-    "href": "research/Statistical_methods/index.html",
-    "title": "Statistical Methods",
-    "section": "",
-    "text": "#\nPushing the boundaries of fast electron spectroscopy, energy-monochromated and aberration-corrected scanning transmission electron microscopes have opened the far infrared to nanometer scale spatial mapping. Together with experiment, we leverage these advances to resolve open fundamental questions in nano-spectroscopy, perform entirely new materials characterization techniques at the single-particle level, and discover advanced materials endowed with unprecedented functionalities."
-  },
-  {
-    "objectID": "research/Statistical_methods/index.html#projects",
-    "href": "research/Statistical_methods/index.html#projects",
-    "title": "Statistical Methods",
-    "section": "Projects",
-    "text": "Projects\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nActive safety monitoring of Isoniazid and Rifapentine (3HP) among ART patients in Mozambique\n\n\n\n\n\n2023\n\n\n\n\n\n\n\n\n\n\n\n\nCohort Event Monitoring of Patients Treated with a Tenofovir/Lamivudine/Dolutegravir (TLD) Regimen in Mozambique\n\n\n\n\n\n2023\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "research/Machine_learning/index.html",
-    "href": "research/Machine_learning/index.html",
-    "title": "Machine Learning",
-    "section": "",
-    "text": "#\nPushing the boundaries of fast electron spectroscopy, energy-monochromated and aberration-corrected scanning transmission electron microscopes have opened the far infrared to nanometer scale spatial mapping. Together with experiment, we leverage these advances to resolve open fundamental questions in nano-spectroscopy, perform entirely new materials characterization techniques at the single-particle level, and discover advanced materials endowed with unprecedented functionalities."
-  },
-  {
-    "objectID": "research/Machine_learning/index.html#projects",
-    "href": "research/Machine_learning/index.html#projects",
-    "title": "Machine Learning",
-    "section": "Projects",
-    "text": "Projects\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nXAI for clinical applications: present and future\n\n\n\n\n\n2023 Slides\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "research/ELSI/index.html",
-    "href": "research/ELSI/index.html",
-    "title": "Ethical Legal Social Implications, Health Services and Health Economics",
-    "section": "",
-    "text": "#\nPushing the boundaries of fast electron spectroscopy, energy-monochromated and aberration-corrected scanning transmission electron microscopes have opened the far infrared to nanometer scale spatial mapping. Together with experiment, we leverage these advances to resolve open fundamental questions in nano-spectroscopy, perform entirely new materials characterization techniques at the single-particle level, and discover advanced materials endowed with unprecedented functionalities."
-  },
-  {
-    "objectID": "research/ELSI/index.html#projects",
-    "href": "research/ELSI/index.html#projects",
-    "title": "Ethical Legal Social Implications, Health Services and Health Economics",
-    "section": "Projects",
-    "text": "Projects\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nExposomics in Practice: Multidisciplinary Perspectives on Environmental Health and Risk Assessment.\n\n\n\n\n\n2023 Published article\n\n\n\n\n\n\n\n\n\n\n\n\nLegal Memorandum on genetic discrimination in long-term insurance for individuals with rare genetic diseases\n\n\n\n\n\n2023\n\n\n\n\n\n\n\n\n\n\n\n\nAssessing the value of delandistrogene moxeparvovec (SRP-9001) gene therapy in patients with Duchenne muscular dystrophy in the United States\n\n\n\n\n\n2023\n\n\n\n\n\n\n\n\n\n\n\n\nReviewing the Public Health Genetic Landscape of Polycystic Ovarian Syndrome\n\n\n\n\n\n2024\n\n\n\n\n\n\n\n\n\n\n\n\nUsing social media as a lens to understand caregiver perspectives and barriers to care for pediatric rare genetic disorders\n\n\n\n\n\n2024\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "research/Bioinformatics/index.html",
-    "href": "research/Bioinformatics/index.html",
-    "title": "Bioinformatics",
-    "section": "",
-    "text": "#"
-  },
-  {
-    "objectID": "research/Bioinformatics/index.html#projects",
-    "href": "research/Bioinformatics/index.html#projects",
-    "title": "Bioinformatics",
-    "section": "Projects",
-    "text": "Projects\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nDeriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework.\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\nDeriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework.\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\nDeriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework.\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\nDeriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework.\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\nDeriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework.\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\nDeriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework.\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\nDeriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework.\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\nDeriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework.\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\nDeriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework.\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\nDeriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework.\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\nDeriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework.\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\nDeriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework.\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\nDeriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework.\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\nDeriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework.\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\nDeriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework.\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\nDeriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework.\n\n\n\n\n\n2021\n\n\n\n\n\n\n\n\n\n\n\n\nEvaluating quality of de novo assembly in 100 samples from the 1000 Genomes ONT sequencing consortium.\n\n\n\n\n\n2024 Preprint available\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/2023_legal_memorandum_life_insurance_rare_disease/index.html",
-    "href": "projects/2023_legal_memorandum_life_insurance_rare_disease/index.html",
-    "title": "Legal Memorandum on genetic discrimination in long-term insurance for individuals with rare genetic diseases",
-    "section": "",
-    "text": "This project was written in the style of a legal memorandum as a part of LAW H 520 Genetics And The Lawcourse in Winter 2023 at University of Washington.\n\nMotivation\nRare genetic diseases can pose unique challenges for individuals and their families. In order to navigate these challenges, it is important to have access to comprehensive insurance coverage that includes genetic testing and treatment. However, insurance coverage for genetic-related issues can often be complex and difficult to understand. While there are some state laws in place that offer additional protections against genetic discrimination in insurance coverage for those with rare genetic diseases, the federal exemption under the Genetic Information Non-discrimination Act (GINA) can still create uncertainty. In light of these complexities, it is important to explore the various state-level protections against genetic discrimination to fully understand the landscape of genetic discrimination in the US. By doing so, individuals can make informed decisions about disclosing genetic information for IVF while minimizing his risk of discrimination from insurers."
-  },
-  {
-    "objectID": "projects/2023_3HP_Mozambique/index.html",
-    "href": "projects/2023_3HP_Mozambique/index.html",
-    "title": "Active safety monitoring of Isoniazid and Rifapentine (3HP) among ART patients in Mozambique",
-    "section": "",
-    "text": "I worked as the primary statistician on this project done as a part of the USAID Medicines, Technologies, and Pharmaceutical Services (MTaPS) Program that enables low- and middle-income countries to strengthen their pharmaceutical systems,\n\nOverview\n\nStatistical analyses to evaluate factors such as health conditions, medications at baseline for a cohort of 400+ active TB patients receiving the ART regimen administered with Isoniazid and Rifapentine (3HP).\nEpidemiological analyses such as person-time incidence of adverse events."
-  },
-  {
-    "objectID": "projects/2023_TLD_Mozambique/index.html",
-    "href": "projects/2023_TLD_Mozambique/index.html",
-    "title": "Cohort Event Monitoring of Patients Treated with a Tenofovir/Lamivudine/Dolutegravir (TLD) Regimen in Mozambique",
-    "section": "",
-    "text": "I worked as the primary statistician on this project done as a part of the USAID Medicines, Technologies, and Pharmaceutical Services (MTaPS) Program that enables low- and middle-income countries to strengthen their pharmaceutical systems,\n\nOverview\n\nStatistical analyses to evaluate factors such as health conditions, medications at baseline for a cohort of 2000+ HIV positive patients administered with the TLD regimen in Mozambique.\nAnalyzed risk factors for adverse events using logistic regression analysis."
-  },
-  {
-    "objectID": "projects/2023_pharmacoeconomic_evaluation_DMD_drug/index.html",
-    "href": "projects/2023_pharmacoeconomic_evaluation_DMD_drug/index.html",
-    "title": "Assessing the value of delandistrogene moxeparvovec (SRP-9001) gene therapy in patients with Duchenne muscular dystrophy in the United States",
-    "section": "",
-    "text": "This project done as a part of HEOR 500 Intro to Pharmacoeconomics course in Spring 2023 at University of Washington.\n\nOverview\nDuchenne muscular dystrophy (DMD) is a X-linked degenerative neuromuscular diseases caused by a gene mutation in the DMD region of the X chromosome. The phenotype results in the loss of expression of dystrophin, a protein required to preserve muscle integrity during contraction. DMD is a rare genetic disorder that currently affects over 10000 males in the United States. Symptoms start before birth and progress to delayed developmental milestones eventually resulting premature death due to complications such as respiratory insufficiency and cardiomyopathy. There is currently no cure for DMD and standard of care (SoC) includes but is not limited to, corticosteroid use in the early years leading to multidisciplinary management options to preserve ambulatory function.\nRecently, investigational gene therapies such as SRP-9001 have been granted a Fast Track FDA status for the treatment of DMD intending to be a single intravenous-based treatment strategy. In order to increase the inclusion in insurance coverage policies, I evaluated a study that aims to conduct a comprehensive CEA that comparatively evaluates the relative costs of SPR-9001 plus SoC vs standalone SoC from the perspective of a US healthcare payer."
-  },
-  {
-    "objectID": "projects/2023_Exposomics_review/index.html",
-    "href": "projects/2023_Exposomics_review/index.html",
-    "title": "Exposomics in Practice: Multidisciplinary Perspectives on Environmental Health and Risk Assessment.",
-    "section": "",
-    "text": "This project was done as a part of the ENVH 593: Current Topics in Risk Assessment, a class where we reviewed latest topics in exposomics research and implications in precision Medicine, legionellosis research and the need for strengthening environmental regulations.\nRead the published article in Integrated Environmental Assessment and Management (IEAM) journal by the Society of Environmental Toxicology and Chemistry (SETAC) from our discussion here."
-  },
-  {
-    "objectID": "projects/2024_PCOS_pharmacogenomics_review/index.html",
-    "href": "projects/2024_PCOS_pharmacogenomics_review/index.html",
-    "title": "Reviewing the Public Health Genetic Landscape of Polycystic Ovarian Syndrome",
-    "section": "",
-    "text": "This literature review report was done as a part of PHG 513: Pharmacogenomics and Toxicogenomics in Winter 2024 at University of Washington.\n\nMotivation\nThe etiology of PCOS is based on the intricate interactions between multiple genetic and environmental factors. PCOS highlights the vital need for a thorough understanding in order to provide tailored therapies and successful interventions. The complex interactions between insulin resistance, hyperandrogenism, and hormone dysregulation affect metabolic and reproductive processes, contributing to the wide range of clinical manifestations of this illness. The intricacy of PCOS and its effects on the world’s female population are highlighted by the inclusion of environmental factors and the intricate interplay between genetic and environmental aspects. By addressing this complexity, we can improve the quality of life for individuals impacted by this complex endocrine condition and open the door to more focused and successful therapy approaches across different socio-environmental settings worldwide\n\n\nTopics analyzed\n\nDiagnosis, fundamental biology and genetic factors\nGlobal epidemiology of PCOS\nEnvironmental and lifestyle-based factors\nEthical, Legal and Social Implications of PCOS"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "",
-    "section": "",
-    "text": "In the last 5+ years, I’ve worked on a diverse set of projects spanning the intersection of fields like Statistics, Genetics, Cancer Biology, Machine Learning and Public Health."
-  },
-  {
-    "objectID": "projects.html#cohort-event-monitoring-of-patients-treated-with-a-tenofovirlamivudinedolutegravir-tld-regimen-in-mozambique",
-    "href": "projects.html#cohort-event-monitoring-of-patients-treated-with-a-tenofovirlamivudinedolutegravir-tld-regimen-in-mozambique",
-    "title": "",
-    "section": "Cohort Event Monitoring of Patients Treated with a Tenofovir/Lamivudine/Dolutegravir (TLD) Regimen in Mozambique",
-    "text": "Cohort Event Monitoring of Patients Treated with a Tenofovir/Lamivudine/Dolutegravir (TLD) Regimen in Mozambique\nUW School of Pharmacy | Biostatistician | June 2023 - September 2023\nSkills: Statistical analysis, Report preparation, Pharmacovigilance\n\nCharacterized the types, rates, and risk factors for adverse events in the TLD Regimen using statistical modeling techniques."
-  },
-  {
-    "objectID": "projects.html#statistical-insights-to-improve-the-prediction-of-polygenic-risk-score-modelling",
-    "href": "projects.html#statistical-insights-to-improve-the-prediction-of-polygenic-risk-score-modelling",
-    "title": "",
-    "section": "Statistical insights to improve the prediction of polygenic risk score modelling",
-    "text": "Statistical insights to improve the prediction of polygenic risk score modelling\nIcahn School of Medicine at Mount Sinai | Research Assistant | February 2022 - September 2022\nSkills: Statistical modeling, GWAS\n\nImplemented a novel shrinkage method on UK Biobank data and summarized key algorithmic considerations and biological insights at the NeuroPsych working group meeting."
-  },
-  {
-    "objectID": "projects.html#bioinformatics-pipeline-to-quantify-aneuploidy-in-whole-exome-sequencing-data",
-    "href": "projects.html#bioinformatics-pipeline-to-quantify-aneuploidy-in-whole-exome-sequencing-data",
-    "title": "",
-    "section": "Bioinformatics pipeline to quantify aneuploidy in whole exome sequencing data",
-    "text": "Bioinformatics pipeline to quantify aneuploidy in whole exome sequencing data\nHerbert Irving Comprehensive Cancer Center | Research Assistant | October 2020 - April 2022\nSkills: Bioinformatics, Cancer Biology, AWS-Cloud9\n\nQuantified mutations (point and indels) stratified by chromosomal regions and genes across healthy and tumor samples.\nWorked on a collaborative study with Genentech Inc. to understand correlations between immunotherapy status and copy number variations in multiple tumor types."
-  },
-  {
-    "objectID": "projects.html#deriving-a-gene-signature-for-systemic-lupus-erythematosus-with-high-diagnostic-accuracy-using-a-multi-cohort-analysis-framework",
-    "href": "projects.html#deriving-a-gene-signature-for-systemic-lupus-erythematosus-with-high-diagnostic-accuracy-using-a-multi-cohort-analysis-framework",
-    "title": "",
-    "section": "Deriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework",
-    "text": "Deriving a gene signature for systemic lupus erythematosus with high diagnostic accuracy using a multi-cohort analysis framework\nInflammatix inc. | Computational Biology intern | August 2021 - September 2021\nSkills: Statistical modeling, Microarray analysis, Multi-cohort analysis\n\nDerived a gene expression signature to distinguish between healthy controls and Systemic Lupus Erythematosus (SLE), validated in an independent set with high accuracy."
-  },
-  {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
-    "section": "",
-    "text": "under construction\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nVariant calling and phasing\n\n\n\nBioinformatics\n\n\n\nA summary of variant callers and phasing software\n\n\n\n\n\nJan 3, 2024\n\n\n\n\n\nNo matching items"
+    "objectID": "blog/variant_calling_phasing_software/index.html#phasing-software",
+    "href": "blog/variant_calling_phasing_software/index.html#phasing-software",
+    "title": "Variant calling and phasing",
+    "section": "Phasing software",
+    "text": "Phasing software\n\nPopulation-based phasing\nBoth of these methods need reference panels. The 1000G Phase3 reference panels can be found here.\n\nBeagle\nShapeIT4\n\n\n\nRead-based phasing\n\nWhatsHap works well for both short and long reads\nHAT is a method for short reads and long-reads"
   },
   {
     "objectID": "media/index.html",
