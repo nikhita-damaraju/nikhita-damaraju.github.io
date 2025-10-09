@@ -1,9 +1,0 @@
----
-title: "Exposomics in Practice: Multidisciplinary Perspectives on Environmental Health and Risk Assessment."
-categories: ["Public_health","ELSI_health_services"]
-year: 2023 [<span style="color:blue; text-decoration:underline;">Published article</span>](https://pubmed.ncbi.nlm.nih.gov/38639413/)
----
-
-This project was done as a part of the ENVH 593: Current Topics in Risk Assessment, a class where we reviewed latest topics in exposomics research and implications in precision Medicine, legionellosis research and the need for strengthening environmental regulations.
-
-Read the published article in Integrated Environmental Assessment and Management (IEAM) journal by the Society of Environmental Toxicology and Chemistry (SETAC) from our discussion [here](https://setac.onlinelibrary.wiley.com/doi/10.1002/ieam.4926).
