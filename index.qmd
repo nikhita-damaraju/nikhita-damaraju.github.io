@@ -23,7 +23,7 @@ about:
       url: "https://scholar.google.com/citations?user=IYzv-hgAAAAJ&hl=en"
 ---
 
-I am a third-year PhD candidate at the University of Washington's [Institute for Public Health Genetics](https://iphg.biostat.washington.edu/), working in the [Miller lab](https://millerlaboratory.com/). My research interests lie at the intersection of bioinformatics, statistical genetics, and health economics, with a focus on advancing translational research. My dissertation centers on evaluating long-read sequencing for clinical care and developing applications that leverage this technology to improve patient outcomes.
+I am a fourth-year PhD candidate at the University of Washington's [Institute for Public Health Genetics](https://iphg.biostat.washington.edu/), working in the [Miller lab](https://millerlaboratory.com/). My research interests lie at the intersection of bioinformatics, statistical genetics, and health economics, with a focus on advancing translational research. My dissertation centers on evaluating long-read sequencing for clinical care and developing applications that leverage this technology to improve patient outcomes.
 
 Throughout my academic journey, I've engaged in diverse projects that bridge disciplines like statistics, genetics, cancer biology, biochemistry, machine learning, and public health. I am passionate about using these interdisciplinary skills to drive innovations in precision medicine.
 
@@ -45,7 +45,7 @@ Beyond research, I enjoy hiking, kayaking, practicing archery, and playing the v
 
 ## Experience
 
--   [UW School of Medicine](https://www.uwmedicine.org/school-of-medicine) \| Research Assistant \| January 2023 - present
+-   Miller Lab, [UW School of Medicine](https://www.uwmedicine.org/school-of-medicine) \| Research Assistant \| January 2023 - present
 
 -   [UW School of Pharmacy](https://sop.washington.edu) \| Biostatistician \| March 2023 - September 2023
 
@@ -65,6 +65,10 @@ Beyond research, I enjoy hiking, kayaking, practicing archery, and playing the v
 
 ## News
 
+-   I will be moderating a session for AI in Genomics and presenting a poster on LRSxIBD at the American Society of Human Genetics meeting 2024 in Boston. \| October 2025
+
+-   Gave a talk on how to stay organized in grad school using Notion for the Institute for Public Genetics Retreat 2025 \| September 2025
+
 -   I successfully passed my PhD general exam (proposal defense)! \| February 2025
 
 -   I was interviewed as a part of the 'Promising Young Scientist' series by Brotman Baty Institute for Precision Medicine. Read more: [Article](https://brotmanbaty.org/news/promising-young-scientist-a-public-health-geneticist-blends-bioinformatics) \| January 2025
@@ -76,13 +80,3 @@ Beyond research, I enjoy hiking, kayaking, practicing archery, and playing the v
 -   I spent a week as a TA for the Computational Genomics 2024 course at Cold Spring Harbor, NY \| November 2024
 
 -   Presented a poster on my phasing work using 1000G-ONT data at the American Society of Human Genetics meeting 2024 in Denver, CO. \| November 2024
-
--   Presented a talk on evaluating phasing and showcased a workflow demo on behalf of the Miller Lab at the Nanopore Community Meeting in Boston. Talk: [Evaluating the quality of long-read phasing methods in clinically relevant genes](https://nanoporetech.com/es/resource-centre/evaluating-the-quality-of-long-read-phasing-methods-in-clinically-relevant-genes) \| September 2024
-
--   My phasing stats shiny app is now online! Link: [Website](https://nikhita-damaraju.shinyapps.io/phasing_stats_app/) \| August 2024
-
--   Presented a talk at Cascadia R Conference. Talk: [R-tificial Intelligence, A guide to using R for ML](https://youtu.be/9_QlWAJgh94?feature=shared) \| July 2024
-
--   I successfully passed my PhD prelim exams! \| June 2024
-
--   Our latest preprint showing the concordance of whole genome nanopore sequencing with standard clinical testing for Prader-Willi and Angelman syndrome is out. Read more: [Preprint](https://www.medrxiv.org/content/10.1101/2024.04.02.24305233v1) \| April 2024
