@@ -31,7 +31,7 @@ Beyond research, I enjoy hiking, kayaking, and playing the violin.
 
 ------------------------------------------------------------------------
 
-## Education
+## Education   {style="font-weight: bold;"}
 
 -   [University of Washington School of Public Health](https://sph.washington.edu) \| PhD in Public Health Genetics \| 2022 - *present*
 
@@ -43,7 +43,7 @@ Beyond research, I enjoy hiking, kayaking, and playing the violin.
 
 ------------------------------------------------------------------------
 
-## Experience
+## Experience {style="font-weight: bold;"}
 
 -   [UW School of Medicine](https://www.uwmedicine.org/school-of-medicine) \| Research Assistant \| January 2023 - present
 
@@ -63,7 +63,7 @@ Beyond research, I enjoy hiking, kayaking, and playing the violin.
 
 ------------------------------------------------------------------------
 
-## News
+## News {style="font-weight: bold;"}
 
 -   I will be moderating a session for AI in Genomics and presenting a poster on LRSxIBD at the American Society of Human Genetics meeting 2024 in Boston. \| October 2025
 
