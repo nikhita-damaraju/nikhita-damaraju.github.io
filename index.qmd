@@ -21,6 +21,16 @@ about:
       url: "https://orcid.org/0000-0001-5054-037X"
     - text: "{{< ai google-scholar >}} Google Scholar"
       url: "https://scholar.google.com/citations?user=IYzv-hgAAAAJ&hl=en"
+format:
+  html:
+    css: custom-index.css
+---
+
+<style>
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold !important;
+}
+</style>
 ---
 
 I am a fourth-year PhD candidate at the University of Washington's [Institute for Public Health Genetics](https://iphg.biostat.washington.edu/), working in the [Miller lab](https://millerlaboratory.com/). My research interests lie at the intersection of bioinformatics, statistical genetics, and health economics, with a focus on advancing translational research. My dissertation centers on evaluating long-read sequencing for clinical care and developing applications that leverage this technology to improve patient outcomes.
@@ -31,7 +41,7 @@ Beyond research, I enjoy hiking, kayaking, and playing the violin.
 
 ------------------------------------------------------------------------
 
-## Education   {style="font-weight: bold;"}
+## Education  
 
 -   [University of Washington School of Public Health](https://sph.washington.edu) \| PhD in Public Health Genetics \| 2022 - *present*
 
@@ -43,7 +53,7 @@ Beyond research, I enjoy hiking, kayaking, and playing the violin.
 
 ------------------------------------------------------------------------
 
-## Experience {style="font-weight: bold;"}
+## Experience
 
 -   [UW School of Medicine](https://www.uwmedicine.org/school-of-medicine) \| Research Assistant \| January 2023 - present
 
@@ -63,7 +73,7 @@ Beyond research, I enjoy hiking, kayaking, and playing the violin.
 
 ------------------------------------------------------------------------
 
-## News {style="font-weight: bold;"}
+## News
 
 -   I will be moderating a session for AI in Genomics and presenting a poster on LRSxIBD at the American Society of Human Genetics meeting 2024 in Boston. \| October 2025
 
