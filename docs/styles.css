@@ -1,3 +1,7 @@
 /* css styles */
-// Base document colors
-$navbar-bg: #3F7F9B;
+
+/* Comment out or remove this:
+body, * {
+  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif !important;
+}
+*/
