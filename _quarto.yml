@@ -1,6 +1,7 @@
 project:
   type: website
   output-dir: docs
+
 website:
   title: ""
   navbar:
@@ -10,10 +11,20 @@ website:
     left:
       - href: index.qmd
         text: About
-      - href: ./Nikhita_Damaraju_Academic_CV_2025.pdf
+      - href: .//Nikhita_Damaraju_Academic_CV_2025.pdf
         text: CV
+#      - href: projects.qmd
+#        text: Projects
+#      - href: talks.qmd
+#        text: Talks
+#      - href: publications.qmd
+#        text: Publications
+#      - href: teaching.qmd
+#        text: Teaching
       - href: blog
         text: Blog
+      - href: helpful_links.qmd
+        text: Helpful links
       - href: media
         text: Media
     
@@ -26,11 +37,14 @@ website:
         href: http://github.com/nikhita-damaraju/
       - text: "{{< ai google-scholar >}}"
         href: https://scholar.google.com/citations?user=IYzv-hgAAAAJ&hl=en
+
       
+
 format:
   html:
     theme: [sandstone, _variables.scss]
     css: styles.css
     toc: true
     page-layout: full
+
 editor: visual
