@@ -1,5 +1,3 @@
 /* css styles */
-
-body, * {
-  font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif !important;
-}
+// Base document colors
+$navbar-bg: #3F7F9B;
