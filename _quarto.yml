@@ -17,8 +17,8 @@ website:
 #        text: Projects
 #      - href: talks.qmd
 #        text: Talks
-      - href: publications
-        text: Publications
+      - href: research
+        text: Research
 #      - href: teaching.qmd
 #        text: Teaching
       - href: blog

@@ -1,0 +1,72 @@
+---
+title: "Research"
+page-layout: full
+title-block-banner: false
+---
+
+My research sits at the intersection of computational genomics, statistical genetics, and clinical translation. I build end-to-end pipelines, develop and evaluate ML models, and apply statistical methods to large-scale biological and clinical datasets — with a focus on turning rigorous analytical work into clinically meaningful outputs. [Full list of publications.](https://scholar.google.com/citations?user=IYzv-hgAAAAJ&hl=en)
+
+------------------------------------------------------------------------
+
+## Long-Read Sequencing and Clinical Genomics
+
+**Datasets:** ONT, PacBio, 1000 Genomes ONT Consortium, GIAB, UW clinical cohorts\
+**Methods:** Haplotype phasing, de novo assembly, variant calling, benchmarking, identity-by-descent detection, machine learning
+
+-   Developed **PhaseQuality**, a Random Forest-based confidence stratification system for phasing errors across \~140M variant pairs and two sequencing platforms
+-   Benchmarked phasing algorithms and de novo assembly algorithms to characterize failure modes in clinically relevant genomic loci
+-   Developed a carrier screening workflow for Spinal Muscular Atrophy using long-read de novo assemblies to resolve SMN1 copy number at the haplotype level
+-   Evaluated long-read phasing for identity-by-descent detection in familial cohorts
+
+**Publications:**
+
+-   **Damaraju N\*** et al. "Determinants of haplotype phasing accuracy in long-read human genome sequencing." *Under review.* bioRxiv: [10.64898/2026.05.04.722832](https://doi.org/10.64898/2026.05.04.722832)
+-   Gustafson JA\*, Gibson SB\*, **Damaraju N\*** et al. "High-coverage nanopore sequencing of samples from the 1000 Genomes Project to build a comprehensive catalog of human genetic variation." *Genome Research* (2024). [Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC11610458/)
+-   Paschal CR\* et al. "Concordance of Whole-Genome Long-Read Sequencing with Standard Clinical Testing for Prader-Willi and Angelman Syndromes." *Journal of Molecular Diagnostics* (2025). [Paper](https://www.sciencedirect.com/science/article/pii/S1525157825000017)
+
+------------------------------------------------------------------------
+
+## Statistical Genetics and Predictive Modeling
+
+**Datasets:** UK Biobank, Garbhini cohort (North India), population-scale genetic datasets\
+**Methods:** Polygenic risk scores, penalized regression, shrinkage methods, ML classification, neural networks
+
+-   Developed a penalized regression-based shrinkage method to improve polygenic risk score prediction across traits spanning the heritability spectrum using UK Biobank data
+-   Developed and validated India-specific gestational age prediction models (Garbhini-GA1 and GA2) evaluating classical ML and neural network architectures, benchmarked against international dating standards and externally validated in an independent cohort
+
+**Publications:**
+
+-   Gadekar VP\*, **Damaraju N\*** et al. "Development and external validation of Indian population-specific Garbhini-GA2 model for estimating gestational age." *The Lancet Regional Health – Southeast Asia* (2024). [Paper](https://doi.org/10.1016/j.lansea.2024.100362)
+-   Vijayram R\*, **Damaraju N\*** et al. "Comparison of first trimester dating methods for gestational age estimation and their implication on preterm birth classification in a North Indian cohort." *BMC Pregnancy and Childbirth* (2021). [Paper](https://doi.org/10.1186/s12884-021-03807-4)
+
+------------------------------------------------------------------------
+
+## Machine Learning for Biological Discovery
+
+**Datasets:** RNA-seq (multi-cohort), whole exome sequencing, transcriptomic data\
+**Methods:** Random forests, CNNs, meta-analysis, classifier evaluation, feature selection, generalized linear models
+
+-   Derived a diagnostic gene expression classifier for Systemic Lupus Erythematosus using a multi-cohort RNA-seq meta-analysis framework, optimizing for sensitivity, specificity, and AUC toward a clinical diagnostic device
+-   Built an AWS-deployed pipeline linking copy number variation to immunotherapy response across multiple tumor types using whole exome sequencing data
+-   Built generalized linear models to identify conserved associations between repeat elements and alternative splicing across primate genomes
+-   Designed a bioinformatics pipeline to quantify differential circRNA expression across EBV infection states in human B-cells
+
+------------------------------------------------------------------------
+
+## Translational and Real-World Data
+
+**Datasets:** Clinical EHR records (Mozambique), pharmacovigilance cohorts, clinical genomics cohorts\
+**Methods:** Pharmacovigilance, statistical evaluation pipelines, health economics, meta-analysis
+
+-   Developed statistical evaluation pipelines for two international drug safety monitoring programs in Mozambique across HIV-positive and ART patient cohorts
+-   Conducting a meta-analysis and cost-effectiveness analysis of long-read sequencing as a first-line diagnostic test for rare genetic diseases
+
+**Publications:**
+
+-   Mussá M, ..., **Damaraju N**, Stergachis A. "Active safety monitoring of Isoniazid and Rifapentine (3HP) among ART patients in Mozambique." *ISoP Africa Chapter Meeting* (2024).
+-   Wood K\*, **Damaraju N\*** et al. "Exposomics in Practice: Multidisciplinary Perspectives on Environmental Health and Risk Assessment." *Integrated Environmental Assessment and Management* (2024). [Paper](https://doi.org/10.1002/ieam.4926)
+-   **Damaraju N\*** et al. "Diagnostic yield of long-read sequencing as a first-line test for genetic diseases." *In Preparation.*
+
+------------------------------------------------------------------------
+
+*\* denotes equal contribution*

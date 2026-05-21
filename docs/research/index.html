@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Publications</title>
+<title>Research</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -94,8 +94,8 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../publications"> 
-<span class="menu-text">Publications</span></a>
+    <a class="nav-link" href="../research"> 
+<span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="../blog"> 
@@ -143,9 +143,10 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#manuscripts-in-preparation-preprints" id="toc-manuscripts-in-preparation-preprints" class="nav-link active" data-scroll-target="#manuscripts-in-preparation-preprints">Manuscripts in Preparation / Preprints</a></li>
-  <li><a href="#peer-reviewed-publications" id="toc-peer-reviewed-publications" class="nav-link" data-scroll-target="#peer-reviewed-publications">Peer-Reviewed Publications</a></li>
-  <li><a href="#other-writing" id="toc-other-writing" class="nav-link" data-scroll-target="#other-writing">Other Writing</a></li>
+  <li><a href="#long-read-sequencing-and-clinical-genomics" id="toc-long-read-sequencing-and-clinical-genomics" class="nav-link active" data-scroll-target="#long-read-sequencing-and-clinical-genomics">Long-Read Sequencing and Clinical Genomics</a></li>
+  <li><a href="#statistical-genetics-and-predictive-modeling" id="toc-statistical-genetics-and-predictive-modeling" class="nav-link" data-scroll-target="#statistical-genetics-and-predictive-modeling">Statistical Genetics and Predictive Modeling</a></li>
+  <li><a href="#machine-learning-for-biological-discovery" id="toc-machine-learning-for-biological-discovery" class="nav-link" data-scroll-target="#machine-learning-for-biological-discovery">Machine Learning for Biological Discovery</a></li>
+  <li><a href="#translational-and-real-world-data" id="toc-translational-and-real-world-data" class="nav-link" data-scroll-target="#translational-and-real-world-data">Translational and Real-World Data</a></li>
   </ul>
 </nav>
     </div>
@@ -154,7 +155,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Publications</h1>
+<h1 class="title">Research</h1>
 </div>
 
 
@@ -171,30 +172,67 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="manuscripts-in-preparation-preprints" class="level3">
-<h3 class="anchored" data-anchor-id="manuscripts-in-preparation-preprints">Manuscripts in Preparation / Preprints</h3>
-<p><strong>Damaraju N*</strong>, Frost FG, …, Miller DE. “Determinants of haplotype phasing accuracy in long-read human genome sequencing.” <em>Under review.</em> bioRxiv: <a href="https://doi.org/10.64898/2026.05.04.722832">10.64898/2026.05.04.722832</a></p>
-<p><strong>Damaraju N*</strong>, …, Shirts BH, Miller DE. “Evaluating long-read phasing for identity-by-descent detection in familial cohorts.” <em>In Preparation.</em></p>
-<p>Gibson SB*, <strong>Damaraju N</strong>, …, Miller DE. “Genome-wide detection and clinical prioritization of tandem repeat outliers using long-read sequencing.” <em>Under review.</em> medRxiv: <a href="https://doi.org/10.64898/2026.04.30.26352103">10.64898/2026.04.30.26352103</a></p>
-<p>Anderson ZB*, Prall T, <strong>Damaraju N</strong>, …, Miller DE. “Long-read sequencing with targeted assembly of the opsin locus accurately evaluates genes in expressed positions.” <em>Under review.</em> medRxiv: <a href="https://doi.org/10.1101/2026.03.17.26348636">2026.03.17.26348636</a></p>
-<p>Kailash BP*, Karthik D*, Shinde M*, <strong>Damaraju N*</strong>, …Jayaraman G, Mahapatra N. ChassiDex: A Microbial Database Useful for Synthetic Biology Applications. bioRxiv: <a href="https://doi.org/10.1101/703033">10.1101/703033</a> (2019)</p>
+<p>My research sits at the intersection of computational genomics, statistical genetics, and clinical translation. I build end-to-end pipelines, develop and evaluate ML models, and apply statistical methods to large-scale biological and clinical datasets — with a focus on turning rigorous analytical work into clinically meaningful outputs. <a href="https://scholar.google.com/citations?user=IYzv-hgAAAAJ&amp;hl=en">Full list of publications.</a></p>
+<hr>
+<section id="long-read-sequencing-and-clinical-genomics" class="level2">
+<h2 class="anchored" data-anchor-id="long-read-sequencing-and-clinical-genomics">Long-Read Sequencing and Clinical Genomics</h2>
+<p><strong>Datasets:</strong> ONT, PacBio, 1000 Genomes ONT Consortium, GIAB, UW clinical cohorts<br>
+<strong>Methods:</strong> Haplotype phasing, de novo assembly, variant calling, benchmarking, identity-by-descent detection, machine learning</p>
+<ul>
+<li>Developed <strong>PhaseQuality</strong>, a Random Forest-based confidence stratification system for phasing errors across ~140M variant pairs and two sequencing platforms</li>
+<li>Benchmarked phasing algorithms and de novo assembly algorithms to characterize failure modes in clinically relevant genomic loci</li>
+<li>Developed a carrier screening workflow for Spinal Muscular Atrophy using long-read de novo assemblies to resolve SMN1 copy number at the haplotype level</li>
+<li>Evaluated long-read phasing for identity-by-descent detection in familial cohorts</li>
+</ul>
+<p><strong>Publications:</strong></p>
+<ul>
+<li><strong>Damaraju N*</strong> et al.&nbsp;“Determinants of haplotype phasing accuracy in long-read human genome sequencing.” <em>Under review.</em> bioRxiv: <a href="https://doi.org/10.64898/2026.05.04.722832">10.64898/2026.05.04.722832</a></li>
+<li>Gustafson JA*, Gibson SB*, <strong>Damaraju N*</strong> et al.&nbsp;“High-coverage nanopore sequencing of samples from the 1000 Genomes Project to build a comprehensive catalog of human genetic variation.” <em>Genome Research</em> (2024). <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC11610458/">Paper</a></li>
+<li>Paschal CR* et al.&nbsp;“Concordance of Whole-Genome Long-Read Sequencing with Standard Clinical Testing for Prader-Willi and Angelman Syndromes.” <em>Journal of Molecular Diagnostics</em> (2025). <a href="https://www.sciencedirect.com/science/article/pii/S1525157825000017">Paper</a></li>
+</ul>
 <hr>
 </section>
-<section id="peer-reviewed-publications" class="level3">
-<h3 class="anchored" data-anchor-id="peer-reviewed-publications">Peer-Reviewed Publications</h3>
-<p>Wojcik M*, Clark RD, …..<strong>Damaraju N</strong>, ……Miller DE. “Long-read sequencing is required for precision diagnosis of incontinentia pigmenti.” <em>HGG Advances</em> vol.&nbsp;6,3 (2025): 100468. <a href="https://doi.org/10.1016/j.xhgg.2025.100468">doi:10.1016/j.xhgg.2025.100468</a></p>
-<p>Paschal CR*, Zalusky MPG, …. <strong>Damaraju N</strong>, ……Miller DE. “Concordance of Whole-Genome Long-Read Sequencing with Standard Clinical Testing for Prader-Willi and Angelman Syndromes.” <em>The Journal of Molecular Diagnostics</em> vol.&nbsp;27,3 (2025): 166-176. <a href="https://doi.org/10.1016/j.jmoldx.2024.12.003">doi:10.1016/j.jmoldx.2024.12.003</a></p>
-<p>Gustafson JA*, Gibson SB*, <strong>Damaraju N*</strong>, Zalusky MPG, Hoekzema K, Twesigomwe D, ….., Miller DE. “High-coverage nanopore sequencing of samples from the 1000 Genomes Project to build a comprehensive catalog of human genetic variation.” <em>Genome Research</em> (2024). <a href="https://doi.org/10.1101/gr.279273.124">doi:10.1101/gr.279273.124</a></p>
-<p>Wood K*, <strong>Damaraju N*</strong>, Krevanko CF*, Aberra A*, Cirone P, Duncan B, Faustman EM. “Exposomics in Practice: Multidisciplinary Perspectives on Environmental Health and Risk Assessment.” <em>Integrated Environmental Assessment and Management</em> (2024). <a href="https://doi.org/10.1002/ieam.4926">doi:10.1002/ieam.4926</a></p>
-<p><strong>Damaraju N</strong>, Miller AL, Miller DE. “Long-Read DNA and RNA Sequencing to Streamline Clinical Genetic Testing and Reduce Barriers to Comprehensive Genetic Testing.” <em>Journal of Applied Laboratory Medicine</em> 9(1):138-150 (2024). <a href="https://doi.org/10.1093/jalm/jfad107">doi:10.1093/jalm/jfad107</a></p>
-<p>Gadekar VP*, <strong>Damaraju N*</strong>, ….., Sinha H. “Development and external validation of Indian population-specific Garbhini-GA2 model for estimating gestational age in second and third trimesters.” <em>The Lancet Regional Health – Southeast Asia</em> (2024). <a href="https://doi.org/10.1016/j.lansea.2024.100362">doi:10.1016/j.lansea.2024.100362</a></p>
-<p>Vijayram R*, <strong>Damaraju N*</strong>, Xavier A*, ….., Sinha H. “Comparison of first trimester dating methods for gestational age estimation and their implication on preterm birth classification in a North Indian cohort.” <em>BMC Pregnancy and Childbirth</em> 21(1):343 (2021). <a href="https://doi.org/10.1186/s12884-021-03807-4">doi:10.1186/s12884-021-03807-4</a></p>
+<section id="statistical-genetics-and-predictive-modeling" class="level2">
+<h2 class="anchored" data-anchor-id="statistical-genetics-and-predictive-modeling">Statistical Genetics and Predictive Modeling</h2>
+<p><strong>Datasets:</strong> UK Biobank, Garbhini cohort (North India), population-scale genetic datasets<br>
+<strong>Methods:</strong> Polygenic risk scores, penalized regression, shrinkage methods, ML classification, neural networks</p>
+<ul>
+<li>Developed a penalized regression-based shrinkage method to improve polygenic risk score prediction across traits spanning the heritability spectrum using UK Biobank data</li>
+<li>Developed and validated India-specific gestational age prediction models (Garbhini-GA1 and GA2) evaluating classical ML and neural network architectures, benchmarked against international dating standards and externally validated in an independent cohort</li>
+</ul>
+<p><strong>Publications:</strong></p>
+<ul>
+<li>Gadekar VP*, <strong>Damaraju N*</strong> et al.&nbsp;“Development and external validation of Indian population-specific Garbhini-GA2 model for estimating gestational age.” <em>The Lancet Regional Health – Southeast Asia</em> (2024). <a href="https://doi.org/10.1016/j.lansea.2024.100362">Paper</a></li>
+<li>Vijayram R*, <strong>Damaraju N*</strong> et al.&nbsp;“Comparison of first trimester dating methods for gestational age estimation and their implication on preterm birth classification in a North Indian cohort.” <em>BMC Pregnancy and Childbirth</em> (2021). <a href="https://doi.org/10.1186/s12884-021-03807-4">Paper</a></li>
+</ul>
 <hr>
 </section>
-<section id="other-writing" class="level3">
-<h3 class="anchored" data-anchor-id="other-writing">Other Writing</h3>
-<p><strong>Damaraju N</strong>. <a href="https://www.publichealth.columbia.edu">“Bench-to-Bedside: A Dream or Reality?”</a> <em>Columbia University Mailman School of Public Health Student Voices Blog</em>, April 13, 2022.</p>
-<p>Xavier A, Sinha H, <strong>Damaraju N</strong>. <a href="https://rbcdsai.iitm.ac.in">“Developing India-specific pregnancy dating model from Garbhini cohort.”</a> <em>AI for Social Good</em>, Robert Bosch Centre for Data Science and AI (RBCDSAI), February 9, 2021.</p>
+<section id="machine-learning-for-biological-discovery" class="level2">
+<h2 class="anchored" data-anchor-id="machine-learning-for-biological-discovery">Machine Learning for Biological Discovery</h2>
+<p><strong>Datasets:</strong> RNA-seq (multi-cohort), whole exome sequencing, transcriptomic data<br>
+<strong>Methods:</strong> Random forests, CNNs, meta-analysis, classifier evaluation, feature selection, generalized linear models</p>
+<ul>
+<li>Derived a diagnostic gene expression classifier for Systemic Lupus Erythematosus using a multi-cohort RNA-seq meta-analysis framework, optimizing for sensitivity, specificity, and AUC toward a clinical diagnostic device</li>
+<li>Built an AWS-deployed pipeline linking copy number variation to immunotherapy response across multiple tumor types using whole exome sequencing data</li>
+<li>Built generalized linear models to identify conserved associations between repeat elements and alternative splicing across primate genomes</li>
+<li>Designed a bioinformatics pipeline to quantify differential circRNA expression across EBV infection states in human B-cells</li>
+</ul>
+<hr>
+</section>
+<section id="translational-and-real-world-data" class="level2">
+<h2 class="anchored" data-anchor-id="translational-and-real-world-data">Translational and Real-World Data</h2>
+<p><strong>Datasets:</strong> Clinical EHR records (Mozambique), pharmacovigilance cohorts, clinical genomics cohorts<br>
+<strong>Methods:</strong> Pharmacovigilance, statistical evaluation pipelines, health economics, meta-analysis</p>
+<ul>
+<li>Developed statistical evaluation pipelines for two international drug safety monitoring programs in Mozambique across HIV-positive and ART patient cohorts</li>
+<li>Conducting a meta-analysis and cost-effectiveness analysis of long-read sequencing as a first-line diagnostic test for rare genetic diseases</li>
+</ul>
+<p><strong>Publications:</strong></p>
+<ul>
+<li>Mussá M, …, <strong>Damaraju N</strong>, Stergachis A. “Active safety monitoring of Isoniazid and Rifapentine (3HP) among ART patients in Mozambique.” <em>ISoP Africa Chapter Meeting</em> (2024).</li>
+<li>Wood K*, <strong>Damaraju N*</strong> et al.&nbsp;“Exposomics in Practice: Multidisciplinary Perspectives on Environmental Health and Risk Assessment.” <em>Integrated Environmental Assessment and Management</em> (2024). <a href="https://doi.org/10.1002/ieam.4926">Paper</a></li>
+<li><strong>Damaraju N*</strong> et al.&nbsp;“Diagnostic yield of long-read sequencing as a first-line test for genetic diseases.” <em>In Preparation.</em></li>
+</ul>
 <hr>
 <p><em>* denotes equal contribution</em></p>
 
