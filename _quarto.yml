@@ -11,14 +11,14 @@ website:
     left:
       - href: index.qmd
         text: About
-      - href: .//Nikhita_Damaraju_Academic_CV_2025.pdf
+      - href: .//Nikhita_Damaraju_Academic_CV_2026.pdf
         text: CV
 #      - href: projects.qmd
 #        text: Projects
 #      - href: talks.qmd
 #        text: Talks
-#      - href: publications.qmd
-#        text: Publications
+      - href: publications
+        text: Publications
 #      - href: teaching.qmd
 #        text: Teaching
       - href: blog
