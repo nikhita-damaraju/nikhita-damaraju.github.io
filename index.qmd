@@ -23,22 +23,18 @@ about:
       url: "https://scholar.google.com/citations?user=IYzv-hgAAAAJ&hl=en"
 ---
 
-I am a fourth-year PhD candidate at the University of Washington's [Institute for Public Health Genetics](https://iphg.biostat.washington.edu/), working in the [Miller lab](https://millerlaboratory.com/). My research interests lie at the intersection of bioinformatics, statistical genetics, and health economics, with a focus on advancing translational research. My dissertation centers on evaluating long-read sequencing for clinical care and developing applications that leverage this technology to improve patient outcomes.
+I am a recent PhD graduate in Public Health Genetics from the University of Washington's [Institute for Public Health Genetics](https://iphg.biostat.washington.edu/), where I worked in the [Miller Lab](https://millerlaboratory.com/). My research sits at the intersection of bioinformatics, statistical genetics, and health economics, with a focus on translational genomics. My dissertation evaluated long-read sequencing for clinical care — addressing how accurate it is, what it enables beyond a single diagnosis, and how often it changes outcomes for patients who have exhausted standard testing options.
 
-Throughout my academic journey, I've engaged in diverse projects that bridge disciplines like statistics, genetics, cancer biology, biochemistry, machine learning, and public health. I am passionate about using these interdisciplinary skills to drive innovations in precision medicine.
+Throughout my research and professional experiences, I have worked across statistics, genetics, cancer biology, machine learning, and public health, and I am passionate about bringing these interdisciplinary skills to precision medicine in industry.
 
-Beyond research, I enjoy hiking, kayaking, and playing the violin.
+I am actively seeking full-time roles in bioinformatics, computational biology, translational data science, and genomics AI.
 
 ------------------------------------------------------------------------
 
 ## Education
 
--   [University of Washington School of Public Health](https://sph.washington.edu) \| PhD in Public Health Genetics \| 2022 - *present*
-
-<!-- -->
-
+-   [University of Washington School of Public Health](https://sph.washington.edu) \| PhD in Public Health Genetics \| 2022 - 2026
 -   [Columbia University Mailman School of Public Health](https://www.publichealth.columbia.edu) \| M.S in Biostatistics-Statistical Genetics \| 2020 - 2022
-
 -   [Indian Institute of Technology Madras](www.iitm.ac.in) \| B.S-M.S in Biological Sciences-Computational Biology \| 2015-2020
 
 ------------------------------------------------------------------------
@@ -65,18 +61,14 @@ Beyond research, I enjoy hiking, kayaking, and playing the violin.
 
 ## News
 
--   I will be moderating a session for AI in Genomics and presenting a poster on LRSxIBD at the American Society of Human Genetics meeting 2024 in Boston. \| October 2025
+-   The first chapter of my dissertation titled "Determinants of haplotype phasing accuracy in long-read human genome sequencing" is now available online. Read more: [Preprint](https://www.biorxiv.org/content/10.64898/2026.05.04.722832v2.abstract) \| May 2026
 
--   Gave a talk on how to stay organized in grad school using Notion for the Institute for Public Genetics Retreat 2025 \| September 2025
+-   I successfully defended my PhD dissertation in Public Health Genetics at the University of Washington! \| May 2026
 
--   I successfully passed my PhD general exam (proposal defense)! \| February 2025
+-   Moderated a session on "The Utility of AI in Clinical Genomics" and presented a poster on long-read phasing for identity-by-descent detection at ASHG 2025 in Boston \| October 2025
 
--   I was interviewed as a part of the 'Promising Young Scientist' series by Brotman Baty Institute for Precision Medicine. Read more: [Article](https://brotmanbaty.org/news/promising-young-scientist-a-public-health-geneticist-blends-bioinformatics) \| January 2025
+-   Gave a talk on staying organized in grad school using Notion at the Institute for Public Health Genetics Retreat 2025 \| September 2025
 
--   Our latest manuscript showing the concordance of whole genome nanopore sequencing with standard clinical testing for Prader-Willi and Angelman syndrome is now online at the Journal of Molecular Diagnostics. Read more: [Paper](https://www.sciencedirect.com/science/article/pii/S1525157825000017) \| December 2024
+-   I successfully passed my PhD general exam! \| February 2025
 
--   Analysis of the first 100 genomes sequenced as a part of the [1000 Genomes ONT Sequencing Consortium](https://millerlaboratory.com/1000G-ONT.html) is published in Genome Research! Read more: [Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC11610458/) \| November 2024
-
--   I spent a week as a TA for the Computational Genomics 2024 course at Cold Spring Harbor, NY \| November 2024
-
--   Presented a poster on my phasing work using 1000G-ONT data at the American Society of Human Genetics meeting 2024 in Denver, CO. \| November 2024
+-   Interviewed as part of the 'Promising Young Scientist' series by Brotman Baty Institute for Precision Medicine. Read more: [Article](https://brotmanbaty.org/news/promising-young-scientist-a-public-health-geneticist-blends-bioinformatics) \| January 2025
